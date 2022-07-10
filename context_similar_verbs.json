@@ -1,0 +1,4993 @@
+{
+    "abolish": [
+        "establish",
+        "define",
+        "implement"
+    ],
+    "absorb": [
+        "identify",
+        "produce",
+        "bring"
+    ],
+    "abuse": [
+        "employ"
+    ],
+    "accelerate": [
+        "prevent"
+    ],
+    "accept": [
+        "make",
+        "receive",
+        "keep",
+        "represent"
+    ],
+    "access": [
+        "display",
+        "read",
+        "identify",
+        "represent",
+        "remove",
+        "produce",
+        "find",
+        "make",
+        "develop",
+        "host",
+        "share",
+        "keep",
+        "allow",
+        "add",
+        "obtain",
+        "offer",
+        "publish",
+        "view",
+        "retrieve",
+        "request",
+        "release",
+        "define",
+        "maintain",
+        "launch",
+        "improve",
+        "implement",
+        "describe",
+        "write",
+        "preserve",
+        "promote",
+        "present",
+        "control",
+        "choose",
+        "introduce",
+        "sell",
+        "send"
+    ],
+    "accommodate": [
+        "bring",
+        "describe",
+        "make",
+        "send",
+        "leave",
+        "produce",
+        "serve",
+        "represent",
+        "reduce",
+        "protect",
+        "accept",
+        "offer",
+        "maintain",
+        "increase",
+        "expand",
+        "allow",
+        "show"
+    ],
+    "accompany": [
+        "send"
+    ],
+    "achieve": [
+        "gain",
+        "establish",
+        "maintain",
+        "increase",
+        "show",
+        "grant",
+        "make"
+    ],
+    "acquire": [
+        "sell",
+        "buy",
+        "share",
+        "hold",
+        "obtain",
+        "own"
+    ],
+    "adapt": [
+        "replace",
+        "write",
+        "develop",
+        "find",
+        "produce",
+        "share",
+        "define",
+        "describe",
+        "leave",
+        "make",
+        "publish"
+    ],
+    "add": [
+        "offer",
+        "make",
+        "produce",
+        "find",
+        "describe",
+        "represent",
+        "remove",
+        "write",
+        "reduce",
+        "receive",
+        "read",
+        "publish",
+        "define",
+        "place",
+        "introduce",
+        "display",
+        "allow",
+        "release",
+        "identify",
+        "feature",
+        "develop",
+        "show",
+        "put",
+        "get",
+        "share",
+        "change",
+        "list",
+        "leave",
+        "retain"
+    ],
+    "address": [
+        "consider",
+        "describe"
+    ],
+    "adjust": [
+        "keep",
+        "reduce",
+        "apply",
+        "modify"
+    ],
+    "administer": [
+        "leave"
+    ],
+    "admit": [
+        "represent",
+        "leave"
+    ],
+    "adopt": [
+        "introduce",
+        "change",
+        "establish",
+        "follow",
+        "make",
+        "describe",
+        "develop",
+        "retain",
+        "bring",
+        "choose",
+        "define",
+        "find",
+        "maintain",
+        "set",
+        "write"
+    ],
+    "advance": [
+        "make",
+        "represent"
+    ],
+    "advertise": [
+        "produce"
+    ],
+    "advocate": [
+        "bring",
+        "promote"
+    ],
+    "affect": [
+        "represent",
+        "make",
+        "establish",
+        "allow",
+        "increase",
+        "protect",
+        "improve",
+        "find",
+        "describe",
+        "produce",
+        "reach",
+        "add",
+        "cover",
+        "change",
+        "keep",
+        "maintain",
+        "enter",
+        "determine",
+        "reflect",
+        "implement"
+    ],
+    "allow": [
+        "make",
+        "find",
+        "offer",
+        "add",
+        "bring",
+        "define",
+        "change",
+        "represent",
+        "affect",
+        "develop",
+        "promote",
+        "enable",
+        "produce",
+        "permit",
+        "obtain",
+        "identify",
+        "maintain",
+        "improve",
+        "implement",
+        "establish",
+        "display",
+        "control",
+        "write"
+    ],
+    "alter": [
+        "describe",
+        "add",
+        "improve",
+        "maintain",
+        "affect",
+        "break",
+        "capture",
+        "represent"
+    ],
+    "amend": [
+        "introduce",
+        "pass",
+        "adopt",
+        "violate",
+        "change",
+        "enact",
+        "read",
+        "sign"
+    ],
+    "analyse": [
+        "make",
+        "represent"
+    ],
+    "analyze": [
+        "show",
+        "obtain",
+        "reflect",
+        "achieve",
+        "find",
+        "indicate"
+    ],
+    "annex": [
+        "leave",
+        "reach",
+        "enter",
+        "represent",
+        "connect",
+        "cover",
+        "enable",
+        "establish",
+        "find",
+        "found"
+    ],
+    "announce": [
+        "make",
+        "follow",
+        "offer",
+        "develop",
+        "establish",
+        "change",
+        "find",
+        "introduce",
+        "maintain",
+        "receive"
+    ],
+    "apply": [
+        "make",
+        "follow",
+        "produce",
+        "allow",
+        "add",
+        "adopt",
+        "bring",
+        "develop",
+        "find",
+        "introduce",
+        "list",
+        "set"
+    ],
+    "approach": [
+        "reach"
+    ],
+    "approve": [
+        "make",
+        "announce",
+        "follow",
+        "receive",
+        "propose"
+    ],
+    "archive": [
+        "access",
+        "read",
+        "view",
+        "remove",
+        "visit",
+        "find",
+        "follow",
+        "add",
+        "launch",
+        "present",
+        "produce",
+        "display",
+        "describe",
+        "send",
+        "allow",
+        "host"
+    ],
+    "assemble": [
+        "add",
+        "produce",
+        "publish",
+        "release",
+        "send",
+        "write"
+    ],
+    "assert": [
+        "exercise",
+        "extend",
+        "hold",
+        "lose",
+        "offer",
+        "recognize",
+        "retain",
+        "claim",
+        "establish",
+        "gain",
+        "maintain",
+        "show",
+        "transfer"
+    ],
+    "assess": [
+        "improve",
+        "increase",
+        "indicate",
+        "measure",
+        "reduce"
+    ],
+    "assign": [
+        "add",
+        "represent",
+        "describe",
+        "find",
+        "make",
+        "produce",
+        "receive",
+        "show",
+        "change",
+        "form",
+        "get",
+        "handle",
+        "hold",
+        "maintain",
+        "put"
+    ],
+    "assist": [
+        "leave"
+    ],
+    "associate": [
+        "attach"
+    ],
+    "assume": [
+        "retain",
+        "change",
+        "follow",
+        "hold",
+        "share"
+    ],
+    "assure": [
+        "retain"
+    ],
+    "attach": [
+        "add",
+        "describe"
+    ],
+    "attack": [
+        "leave"
+    ],
+    "attain": [
+        "grant"
+    ],
+    "attend": [
+        "establish",
+        "hold"
+    ],
+    "attribute": [
+        "write",
+        "establish",
+        "find",
+        "gain"
+    ],
+    "average": [
+        "reach"
+    ],
+    "avoid": [
+        "make",
+        "cause",
+        "describe",
+        "add",
+        "cover",
+        "define",
+        "produce",
+        "allow",
+        "mark",
+        "reduce"
+    ],
+    "award": [
+        "receive",
+        "win",
+        "offer"
+    ],
+    "back": [
+        "help"
+    ],
+    "bear": [
+        "show"
+    ],
+    "beat": [
+        "defeat"
+    ],
+    "begin": [
+        "end",
+        "launch",
+        "establish",
+        "join",
+        "start",
+        "complete",
+        "continue",
+        "describe",
+        "bring",
+        "develop",
+        "enable",
+        "maintain"
+    ],
+    "bind": [
+        "find",
+        "produce",
+        "make",
+        "return"
+    ],
+    "block": [
+        "prevent",
+        "produce"
+    ],
+    "boast": [
+        "offer"
+    ],
+    "border": [
+        "reach"
+    ],
+    "break": [
+        "share",
+        "establish",
+        "find",
+        "make"
+    ],
+    "bring": [
+        "make",
+        "allow",
+        "develop",
+        "expand",
+        "offer",
+        "hold",
+        "increase",
+        "introduce",
+        "receive"
+    ],
+    "bring in": [
+        "add",
+        "describe",
+        "introduce",
+        "show",
+        "publish",
+        "produce",
+        "offer",
+        "make",
+        "keep",
+        "indicate",
+        "incorporate",
+        "generate",
+        "feature",
+        "employ",
+        "control",
+        "construct",
+        "write"
+    ],
+    "broadcast": [
+        "precede",
+        "win"
+    ],
+    "build": [
+        "establish",
+        "leave",
+        "develop",
+        "form",
+        "make",
+        "feature",
+        "maintain"
+    ],
+    "buy": [
+        "sell",
+        "acquire",
+        "purchase",
+        "receive",
+        "own",
+        "produce",
+        "protect"
+    ],
+    "bypass": [
+        "make",
+        "lack",
+        "need"
+    ],
+    "calculate": [
+        "compute"
+    ],
+    "call": [
+        "describe",
+        "define",
+        "introduce",
+        "represent",
+        "establish",
+        "implement",
+        "produce",
+        "add",
+        "hold"
+    ],
+    "capture": [
+        "leave",
+        "describe",
+        "represent"
+    ],
+    "carry": [
+        "add",
+        "receive",
+        "handle",
+        "produce",
+        "hold",
+        "leave",
+        "lose"
+    ],
+    "carry out": [
+        "launch",
+        "describe",
+        "maintain",
+        "perform"
+    ],
+    "cast": [
+        "produce",
+        "receive",
+        "represent"
+    ],
+    "cause": [
+        "avoid",
+        "reduce",
+        "bring",
+        "report",
+        "make",
+        "represent"
+    ],
+    "cease": [
+        "launch",
+        "represent",
+        "start"
+    ],
+    "cede": [
+        "gain",
+        "establish",
+        "exercise",
+        "lose",
+        "share"
+    ],
+    "chair": [
+        "call",
+        "establish"
+    ],
+    "challenge": [
+        "make"
+    ],
+    "change": [
+        "represent",
+        "make",
+        "describe",
+        "produce",
+        "develop",
+        "adopt",
+        "allow",
+        "add",
+        "introduce",
+        "read",
+        "offer",
+        "follow",
+        "retain",
+        "identify",
+        "establish",
+        "choose",
+        "determine",
+        "find",
+        "maintain",
+        "define",
+        "affect"
+    ],
+    "characterize": [
+        "establish",
+        "leave"
+    ],
+    "check": [
+        "add",
+        "allow",
+        "find",
+        "remove",
+        "represent",
+        "write"
+    ],
+    "choose": [
+        "produce",
+        "change",
+        "add",
+        "develop",
+        "introduce",
+        "define",
+        "follow",
+        "identify",
+        "adopt",
+        "offer",
+        "represent",
+        "make",
+        "describe",
+        "write",
+        "operate",
+        "establish",
+        "put",
+        "receive",
+        "release",
+        "select",
+        "share"
+    ],
+    "cite": [
+        "find",
+        "add",
+        "list",
+        "publish",
+        "remove",
+        "make",
+        "identify",
+        "produce",
+        "receive",
+        "improve",
+        "edit",
+        "cover",
+        "read",
+        "release",
+        "control",
+        "represent",
+        "show",
+        "write"
+    ],
+    "claim": [
+        "lose",
+        "hold",
+        "leave",
+        "obtain",
+        "occupy",
+        "protect"
+    ],
+    "classify": [
+        "add"
+    ],
+    "click": [
+        "display",
+        "make",
+        "receive",
+        "find",
+        "handle",
+        "incorporate",
+        "remove",
+        "suggest"
+    ],
+    "close": [
+        "establish",
+        "host"
+    ],
+    "coach": [
+        "lead"
+    ],
+    "collect": [
+        "make",
+        "send",
+        "find",
+        "identify",
+        "release",
+        "produce",
+        "add",
+        "publish",
+        "sell",
+        "represent",
+        "preserve",
+        "affect",
+        "allow",
+        "write",
+        "read",
+        "obtain",
+        "establish",
+        "share"
+    ],
+    "combine": [
+        "offer",
+        "represent",
+        "write",
+        "add",
+        "introduce",
+        "bring",
+        "change",
+        "describe",
+        "improve",
+        "maintain",
+        "make",
+        "produce",
+        "publish"
+    ],
+    "communicate": [
+        "describe"
+    ],
+    "compare": [
+        "add",
+        "make",
+        "produce"
+    ],
+    "compile": [
+        "produce",
+        "display",
+        "obtain",
+        "publish"
+    ],
+    "complete": [
+        "begin",
+        "start",
+        "offer"
+    ],
+    "compose": [
+        "make",
+        "add",
+        "find",
+        "produce",
+        "write"
+    ],
+    "comprise": [
+        "form",
+        "produce",
+        "represent",
+        "identify",
+        "make",
+        "reach",
+        "show",
+        "find",
+        "hold",
+        "remove"
+    ],
+    "compute": [
+        "calculate",
+        "increase"
+    ],
+    "concern": [
+        "avoid",
+        "describe",
+        "discuss",
+        "prevent"
+    ],
+    "conclude": [
+        "form",
+        "reach",
+        "discuss",
+        "make"
+    ],
+    "condemn": [
+        "make",
+        "adopt",
+        "change",
+        "develop",
+        "end",
+        "find",
+        "involve",
+        "oppose"
+    ],
+    "conduct": [
+        "bring",
+        "launch",
+        "make",
+        "perform",
+        "begin",
+        "continue",
+        "direct",
+        "publish",
+        "start"
+    ],
+    "confer": [
+        "grant",
+        "describe",
+        "obtain",
+        "receive"
+    ],
+    "confirm": [
+        "reach"
+    ],
+    "connect": [
+        "cover",
+        "enter",
+        "leave",
+        "represent",
+        "occupy"
+    ],
+    "consider": [
+        "describe",
+        "make",
+        "introduce",
+        "offer",
+        "bring",
+        "find",
+        "represent",
+        "add",
+        "allow",
+        "avoid",
+        "cover",
+        "define",
+        "leave",
+        "produce",
+        "write"
+    ],
+    "consolidate": [
+        "grant"
+    ],
+    "constitute": [
+        "comprise"
+    ],
+    "construct": [
+        "leave",
+        "describe",
+        "establish",
+        "maintain",
+        "add",
+        "represent",
+        "feature",
+        "produce",
+        "form",
+        "offer",
+        "introduce",
+        "identify",
+        "indicate",
+        "build",
+        "follow",
+        "change",
+        "specify"
+    ],
+    "consult": [
+        "cite"
+    ],
+    "consume": [
+        "produce",
+        "buy",
+        "make",
+        "reduce",
+        "spend"
+    ],
+    "contact": [
+        "ask",
+        "force",
+        "protect"
+    ],
+    "contest": [
+        "establish"
+    ],
+    "continue": [
+        "begin",
+        "bring",
+        "develop",
+        "establish",
+        "extend",
+        "perform",
+        "start"
+    ],
+    "contribute": [
+        "find",
+        "make",
+        "host",
+        "receive"
+    ],
+    "control": [
+        "produce",
+        "represent",
+        "make",
+        "allow",
+        "find",
+        "add",
+        "reduce",
+        "increase",
+        "improve",
+        "identify",
+        "develop",
+        "protect",
+        "release",
+        "define",
+        "affect",
+        "limit",
+        "maintain",
+        "describe",
+        "write"
+    ],
+    "convert": [
+        "represent",
+        "produce",
+        "add",
+        "make",
+        "protect",
+        "allow",
+        "define",
+        "find",
+        "receive"
+    ],
+    "convey": [
+        "carry"
+    ],
+    "copy": [
+        "make",
+        "share",
+        "write",
+        "allow",
+        "collect",
+        "follow",
+        "obtain",
+        "produce"
+    ],
+    "correct": [
+        "make",
+        "introduce",
+        "raise"
+    ],
+    "count": [
+        "add",
+        "find",
+        "bring",
+        "combine",
+        "make",
+        "produce",
+        "receive",
+        "release",
+        "write"
+    ],
+    "counter": [
+        "control"
+    ],
+    "cover": [
+        "reach",
+        "make",
+        "represent",
+        "describe",
+        "enter",
+        "receive",
+        "add",
+        "connect",
+        "write",
+        "affect",
+        "avoid",
+        "find",
+        "host"
+    ],
+    "crawl": [
+        "access"
+    ],
+    "criticize": [
+        "offer",
+        "replace"
+    ],
+    "cross": [
+        "form",
+        "reach",
+        "enter",
+        "leave",
+        "span"
+    ],
+    "customize": [
+        "make",
+        "study"
+    ],
+    "cut": [
+        "reduce"
+    ],
+    "damage": [
+        "leave",
+        "define",
+        "establish"
+    ],
+    "decide": [
+        "adopt",
+        "change",
+        "describe",
+        "identify",
+        "investigate",
+        "retain"
+    ],
+    "declare": [
+        "make"
+    ],
+    "decline": [
+        "receive",
+        "accept",
+        "make",
+        "reject"
+    ],
+    "decrease": [
+        "increase",
+        "reduce",
+        "indicate"
+    ],
+    "defeat": [
+        "lead"
+    ],
+    "defend": [
+        "establish",
+        "protect"
+    ],
+    "define": [
+        "describe",
+        "represent",
+        "introduce",
+        "establish",
+        "develop",
+        "add",
+        "produce",
+        "allow",
+        "implement",
+        "identify",
+        "make",
+        "maintain",
+        "set",
+        "share",
+        "understand",
+        "find",
+        "form",
+        "offer",
+        "write",
+        "handle",
+        "change",
+        "call",
+        "avoid",
+        "adopt",
+        "enter",
+        "measure",
+        "display",
+        "control",
+        "reduce",
+        "replace",
+        "choose",
+        "generate"
+    ],
+    "delegate": [
+        "make"
+    ],
+    "delete": [
+        "add",
+        "find",
+        "remove",
+        "move",
+        "make",
+        "allow",
+        "cite",
+        "produce",
+        "display",
+        "edit",
+        "enter",
+        "describe",
+        "follow",
+        "put",
+        "read",
+        "receive",
+        "change",
+        "represent",
+        "return",
+        "show",
+        "write"
+    ],
+    "deliver": [
+        "make",
+        "produce",
+        "offer",
+        "release",
+        "add",
+        "feature",
+        "receive",
+        "show",
+        "display",
+        "publish",
+        "share"
+    ],
+    "demand": [
+        "increase",
+        "offer"
+    ],
+    "demonstrate": [
+        "bring"
+    ],
+    "denote": [
+        "represent",
+        "indicate",
+        "make",
+        "consider",
+        "mark",
+        "write"
+    ],
+    "deny": [
+        "grant",
+        "bring"
+    ],
+    "deploy": [
+        "produce"
+    ],
+    "deposit": [
+        "distribute",
+        "make",
+        "publish",
+        "read",
+        "remove"
+    ],
+    "derive": [
+        "affect",
+        "add",
+        "cover",
+        "keep",
+        "make",
+        "define",
+        "employ",
+        "get",
+        "possess",
+        "show",
+        "write"
+    ],
+    "describe": [
+        "make",
+        "represent",
+        "develop",
+        "add",
+        "find",
+        "define",
+        "leave",
+        "introduce",
+        "produce",
+        "change",
+        "show",
+        "establish",
+        "implement",
+        "offer",
+        "identify",
+        "cover",
+        "follow",
+        "form",
+        "indicate",
+        "consider",
+        "reflect",
+        "release",
+        "write",
+        "adopt",
+        "discuss",
+        "present",
+        "call",
+        "publish",
+        "avoid",
+        "affect",
+        "specify"
+    ],
+    "design": [
+        "develop",
+        "implement",
+        "define",
+        "add"
+    ],
+    "designate": [
+        "represent"
+    ],
+    "detail": [
+        "add",
+        "investigate",
+        "make",
+        "bring",
+        "handle",
+        "indicate",
+        "manage",
+        "present",
+        "share",
+        "take over",
+        "write"
+    ],
+    "determine": [
+        "change",
+        "affect",
+        "describe",
+        "increase",
+        "offer",
+        "reduce",
+        "show"
+    ],
+    "devastate": [
+        "build",
+        "leave"
+    ],
+    "develop": [
+        "make",
+        "describe",
+        "establish",
+        "implement",
+        "introduce",
+        "offer",
+        "define",
+        "represent",
+        "change",
+        "add",
+        "bring",
+        "follow",
+        "maintain",
+        "produce",
+        "write",
+        "find",
+        "allow",
+        "build",
+        "share",
+        "identify",
+        "improve",
+        "launch",
+        "adopt",
+        "enable",
+        "publish"
+    ],
+    "devise": [
+        "develop",
+        "describe",
+        "find",
+        "publish"
+    ],
+    "differentiate": [
+        "define",
+        "describe",
+        "hold",
+        "identify",
+        "protect",
+        "represent"
+    ],
+    "digitize": [
+        "release",
+        "add",
+        "describe"
+    ],
+    "diminish": [
+        "determine",
+        "increase",
+        "reach",
+        "serve"
+    ],
+    "disable": [
+        "find",
+        "offer",
+        "place"
+    ],
+    "disclose": [
+        "add",
+        "get",
+        "lack",
+        "limit",
+        "raise"
+    ],
+    "discourage": [
+        "permit"
+    ],
+    "discuss": [
+        "describe",
+        "find",
+        "bring",
+        "make",
+        "publish"
+    ],
+    "display": [
+        "add",
+        "remove",
+        "produce",
+        "offer",
+        "make",
+        "find",
+        "show",
+        "send",
+        "represent",
+        "write",
+        "allow",
+        "publish",
+        "receive",
+        "read",
+        "access",
+        "describe",
+        "leave",
+        "feature",
+        "define",
+        "share",
+        "obtain",
+        "present",
+        "interpret",
+        "identify",
+        "host",
+        "edit",
+        "retain",
+        "change",
+        "mark"
+    ],
+    "disrupt": [
+        "affect",
+        "establish",
+        "develop",
+        "enter"
+    ],
+    "disseminate": [
+        "investigate",
+        "make",
+        "publish"
+    ],
+    "distinguish": [
+        "add",
+        "represent",
+        "write"
+    ],
+    "distribute": [
+        "make",
+        "release",
+        "write",
+        "offer",
+        "produce",
+        "develop",
+        "share",
+        "publish",
+        "sell",
+        "identify",
+        "describe",
+        "read",
+        "add",
+        "host",
+        "find",
+        "obtain"
+    ],
+    "divert": [
+        "produce",
+        "share",
+        "define",
+        "receive",
+        "acquire",
+        "affect",
+        "bring",
+        "enable",
+        "form",
+        "hold",
+        "make",
+        "represent",
+        "request"
+    ],
+    "divide": [
+        "establish",
+        "make",
+        "bring",
+        "represent"
+    ],
+    "do": [
+        "make",
+        "hold",
+        "perform",
+        "publish",
+        "describe",
+        "offer"
+    ],
+    "document": [
+        "show"
+    ],
+    "dominate": [
+        "establish"
+    ],
+    "double": [
+        "cover",
+        "measure",
+        "reach",
+        "single"
+    ],
+    "download": [
+        "find",
+        "make",
+        "share",
+        "write",
+        "allow",
+        "produce",
+        "release",
+        "send",
+        "control",
+        "install",
+        "need",
+        "read",
+        "sell",
+        "upload"
+    ],
+    "draft": [
+        "change",
+        "cite",
+        "remove"
+    ],
+    "drain": [
+        "measure",
+        "produce"
+    ],
+    "draw": [
+        "establish",
+        "hold",
+        "represent"
+    ],
+    "drop": [
+        "bring",
+        "reduce"
+    ],
+    "duplicate": [
+        "make",
+        "add",
+        "find",
+        "generate",
+        "improve",
+        "produce",
+        "replace",
+        "write"
+    ],
+    "earn": [
+        "receive",
+        "win",
+        "make",
+        "lose",
+        "offer"
+    ],
+    "ease": [
+        "bring"
+    ],
+    "edit": [
+        "make",
+        "display",
+        "remove",
+        "read",
+        "add",
+        "prevent",
+        "cite",
+        "send",
+        "describe",
+        "find",
+        "host",
+        "produce",
+        "avoid",
+        "need",
+        "publish",
+        "delete",
+        "show",
+        "write"
+    ],
+    "embed": [
+        "develop"
+    ],
+    "embrace": [
+        "represent"
+    ],
+    "emit": [
+        "produce",
+        "absorb"
+    ],
+    "emphasize": [
+        "identify"
+    ],
+    "employ": [
+        "add",
+        "develop",
+        "make",
+        "produce",
+        "implement",
+        "involve",
+        "permit",
+        "protect",
+        "represent"
+    ],
+    "enable": [
+        "offer",
+        "allow",
+        "make",
+        "develop",
+        "facilitate",
+        "bring",
+        "add",
+        "remove",
+        "represent",
+        "share"
+    ],
+    "enact": [
+        "introduce",
+        "adopt",
+        "issue",
+        "apply",
+        "approve",
+        "establish",
+        "follow",
+        "implement",
+        "propose",
+        "violate"
+    ],
+    "encapsulate": [
+        "allow",
+        "begin",
+        "communicate",
+        "define",
+        "develop",
+        "utilize"
+    ],
+    "enclose": [
+        "cover",
+        "form",
+        "add",
+        "define"
+    ],
+    "encode": [
+        "make",
+        "display",
+        "add",
+        "represent",
+        "produce",
+        "identify",
+        "find",
+        "describe",
+        "send",
+        "enter",
+        "change",
+        "edit",
+        "preserve",
+        "convert",
+        "publish",
+        "receive",
+        "cite"
+    ],
+    "encompass": [
+        "reach",
+        "cover",
+        "identify",
+        "produce",
+        "follow",
+        "indicate",
+        "represent",
+        "apply",
+        "bring",
+        "comprise",
+        "increase",
+        "leave",
+        "make"
+    ],
+    "encounter": [
+        "add",
+        "assign",
+        "define",
+        "display",
+        "remove",
+        "type"
+    ],
+    "encourage": [
+        "prevent",
+        "bring",
+        "enable",
+        "make",
+        "promote",
+        "protect",
+        "allow"
+    ],
+    "end": [
+        "begin",
+        "establish",
+        "reduce",
+        "maintain",
+        "add",
+        "follow",
+        "retain",
+        "start"
+    ],
+    "endorse": [
+        "propose"
+    ],
+    "enforce": [
+        "define",
+        "establish",
+        "violate",
+        "apply",
+        "impose",
+        "issue",
+        "make",
+        "offer"
+    ],
+    "enhance": [
+        "improve",
+        "increase",
+        "represent"
+    ],
+    "enjoy": [
+        "maintain",
+        "establish",
+        "retain",
+        "affect",
+        "extend",
+        "gain",
+        "improve",
+        "lose"
+    ],
+    "enrol": [
+        "reach",
+        "represent"
+    ],
+    "ensure": [
+        "increase",
+        "maintain",
+        "offer",
+        "promote",
+        "allow",
+        "establish",
+        "grant",
+        "improve"
+    ],
+    "enter": [
+        "establish",
+        "form",
+        "represent",
+        "leave",
+        "cover",
+        "make",
+        "reach",
+        "write",
+        "add",
+        "affect",
+        "define",
+        "show"
+    ],
+    "equal": [
+        "measure",
+        "reduce",
+        "display",
+        "produce",
+        "reach"
+    ],
+    "establish": [
+        "form",
+        "maintain",
+        "represent",
+        "make",
+        "develop",
+        "follow",
+        "leave",
+        "build",
+        "define",
+        "enter",
+        "describe",
+        "affect",
+        "adopt",
+        "replace",
+        "retain",
+        "introduce",
+        "offer",
+        "open",
+        "operate",
+        "change",
+        "implement"
+    ],
+    "estimate": [
+        "reduce",
+        "increase",
+        "measure",
+        "report"
+    ],
+    "evaluate": [
+        "make",
+        "access",
+        "offer"
+    ],
+    "examine": [
+        "find",
+        "publish",
+        "describe",
+        "write"
+    ],
+    "exceed": [
+        "reduce",
+        "increase",
+        "produce",
+        "reach"
+    ],
+    "exchange": [
+        "bring"
+    ],
+    "exclude": [
+        "remove",
+        "find",
+        "produce",
+        "show",
+        "leave",
+        "reduce",
+        "reach",
+        "allow",
+        "occupy",
+        "send",
+        "represent",
+        "publish",
+        "protect",
+        "add",
+        "obtain",
+        "identify",
+        "form",
+        "encompass",
+        "display",
+        "describe",
+        "comprise",
+        "check",
+        "begin",
+        "keep"
+    ],
+    "execute": [
+        "make",
+        "add",
+        "allow",
+        "establish",
+        "issue",
+        "maintain",
+        "place",
+        "read",
+        "release"
+    ],
+    "exercise": [
+        "retain",
+        "grant",
+        "assert",
+        "establish",
+        "extend",
+        "hold",
+        "lose",
+        "transfer"
+    ],
+    "exhibit": [
+        "indicate",
+        "develop",
+        "produce",
+        "reflect",
+        "show",
+        "study"
+    ],
+    "expand": [
+        "bring",
+        "establish",
+        "make",
+        "offer",
+        "find",
+        "increase",
+        "maintain",
+        "add",
+        "allow",
+        "develop",
+        "enable",
+        "operate",
+        "reduce",
+        "share"
+    ],
+    "expect": [
+        "produce"
+    ],
+    "expel": [
+        "employ",
+        "represent",
+        "affect",
+        "follow",
+        "kill",
+        "protect"
+    ],
+    "experience": [
+        "reduce",
+        "bring",
+        "cause"
+    ],
+    "explain": [
+        "describe",
+        "consider",
+        "specify",
+        "bring",
+        "cover",
+        "find",
+        "leave",
+        "produce",
+        "receive",
+        "represent"
+    ],
+    "exploit": [
+        "establish",
+        "follow",
+        "involve",
+        "produce"
+    ],
+    "explore": [
+        "represent",
+        "find",
+        "describe",
+        "enter",
+        "establish",
+        "identify",
+        "introduce",
+        "leave",
+        "maintain",
+        "reflect"
+    ],
+    "export": [
+        "develop",
+        "make",
+        "offer",
+        "produce",
+        "represent"
+    ],
+    "expose": [
+        "offer"
+    ],
+    "express": [
+        "indicate",
+        "reflect",
+        "represent"
+    ],
+    "extend": [
+        "follow",
+        "develop"
+    ],
+    "extract": [
+        "make",
+        "share",
+        "access",
+        "display",
+        "keep",
+        "lack",
+        "pass",
+        "present"
+    ],
+    "facilitate": [
+        "enable",
+        "allow",
+        "host",
+        "prevent",
+        "make",
+        "need",
+        "promote",
+        "start",
+        "bring",
+        "encourage",
+        "offer",
+        "permit"
+    ],
+    "feature": [
+        "make",
+        "add",
+        "offer",
+        "produce",
+        "represent",
+        "build",
+        "find",
+        "form",
+        "introduce",
+        "display",
+        "release"
+    ],
+    "feel": [
+        "avoid"
+    ],
+    "fetch": [
+        "interpret",
+        "access",
+        "delete",
+        "display",
+        "modify",
+        "present",
+        "process",
+        "protect",
+        "request",
+        "retrieve",
+        "save",
+        "send",
+        "share",
+        "visit"
+    ],
+    "file": [
+        "bring",
+        "produce"
+    ],
+    "fill": [
+        "hold"
+    ],
+    "find": [
+        "make",
+        "represent",
+        "add",
+        "allow",
+        "describe",
+        "show",
+        "share",
+        "receive",
+        "identify",
+        "offer",
+        "read",
+        "publish",
+        "produce",
+        "write",
+        "maintain",
+        "retain",
+        "remove",
+        "obtain",
+        "measure",
+        "leave",
+        "display",
+        "improve",
+        "develop",
+        "send",
+        "report",
+        "list",
+        "host",
+        "affect",
+        "reduce",
+        "reach",
+        "keep",
+        "mean",
+        "cite",
+        "hold",
+        "release",
+        "handle",
+        "introduce",
+        "change",
+        "control",
+        "define",
+        "specify"
+    ],
+    "finish": [
+        "begin",
+        "start"
+    ],
+    "fit": [
+        "produce",
+        "define",
+        "identify",
+        "maintain"
+    ],
+    "fix": [
+        "show",
+        "produce",
+        "make",
+        "find",
+        "release",
+        "add",
+        "leave",
+        "publish",
+        "offer",
+        "introduce",
+        "describe",
+        "cause",
+        "indicate",
+        "address",
+        "keep",
+        "incorporate",
+        "display",
+        "consider",
+        "raise",
+        "bring",
+        "repair",
+        "share",
+        "avoid",
+        "write"
+    ],
+    "flee": [
+        "cover",
+        "leave"
+    ],
+    "follow": [
+        "make",
+        "represent",
+        "establish",
+        "adopt",
+        "develop",
+        "produce",
+        "change",
+        "describe",
+        "indicate",
+        "prevent",
+        "offer",
+        "form",
+        "introduce",
+        "announce",
+        "apply",
+        "retain"
+    ],
+    "forbid": [
+        "permit",
+        "make"
+    ],
+    "force": [
+        "leave",
+        "make"
+    ],
+    "form": [
+        "establish",
+        "make",
+        "enter",
+        "produce",
+        "represent",
+        "build",
+        "describe",
+        "follow",
+        "join",
+        "leave"
+    ],
+    "foster": [
+        "encourage",
+        "increase",
+        "promote"
+    ],
+    "found": [
+        "establish",
+        "leave",
+        "form",
+        "join"
+    ],
+    "free": [
+        "distribute",
+        "hold",
+        "sell"
+    ],
+    "fuel": [
+        "allow",
+        "promote"
+    ],
+    "fund": [
+        "establish",
+        "make",
+        "offer"
+    ],
+    "gain": [
+        "lose",
+        "receive",
+        "get",
+        "establish",
+        "achieve",
+        "allow",
+        "grant",
+        "maintain",
+        "obtain",
+        "offer",
+        "retain",
+        "bring",
+        "make",
+        "reach",
+        "seek"
+    ],
+    "garner": [
+        "attract",
+        "receive",
+        "convert",
+        "gain",
+        "get",
+        "indicate",
+        "place"
+    ],
+    "gather": [
+        "cite",
+        "obtain",
+        "place",
+        "find",
+        "maintain",
+        "receive"
+    ],
+    "generate": [
+        "produce",
+        "make",
+        "receive",
+        "add",
+        "show",
+        "define",
+        "describe",
+        "follow",
+        "increase",
+        "represent",
+        "establish",
+        "introduce",
+        "measure",
+        "read",
+        "reduce"
+    ],
+    "get": [
+        "receive",
+        "obtain",
+        "make",
+        "add",
+        "gain",
+        "offer",
+        "retain",
+        "need",
+        "allow",
+        "lose",
+        "find",
+        "prevent",
+        "introduce",
+        "seek",
+        "show",
+        "write"
+    ],
+    "grab": [
+        "obtain"
+    ],
+    "grant": [
+        "receive",
+        "lose",
+        "obtain",
+        "gain",
+        "offer",
+        "retain",
+        "establish",
+        "achieve",
+        "allow"
+    ],
+    "guarantee": [
+        "ensure",
+        "promote"
+    ],
+    "guide": [
+        "begin",
+        "describe"
+    ],
+    "hand over": [
+        "send"
+    ],
+    "handle": [
+        "make",
+        "receive",
+        "find",
+        "add",
+        "define",
+        "produce",
+        "send",
+        "allow",
+        "describe",
+        "identify",
+        "write",
+        "carry",
+        "represent",
+        "return"
+    ],
+    "harass": [
+        "leave"
+    ],
+    "head": [
+        "establish",
+        "represent"
+    ],
+    "hear": [
+        "examine",
+        "file",
+        "release",
+        "send"
+    ],
+    "help": [
+        "represent"
+    ],
+    "hide": [
+        "find",
+        "read",
+        "write",
+        "add",
+        "display",
+        "remove",
+        "steal"
+    ],
+    "hinder": [
+        "increase"
+    ],
+    "hire": [
+        "pay"
+    ],
+    "hit": [
+        "reach"
+    ],
+    "hold": [
+        "win",
+        "host",
+        "lose",
+        "make",
+        "produce",
+        "represent",
+        "bring",
+        "find",
+        "leave",
+        "remove",
+        "retain",
+        "add",
+        "describe",
+        "offer"
+    ],
+    "host": [
+        "win",
+        "hold",
+        "find",
+        "make",
+        "start",
+        "send",
+        "leave",
+        "write",
+        "establish",
+        "cover",
+        "add",
+        "bring",
+        "list",
+        "publish",
+        "allow",
+        "own",
+        "receive",
+        "play",
+        "access",
+        "offer",
+        "lose",
+        "identify",
+        "feature",
+        "facilitate",
+        "display",
+        "launch"
+    ],
+    "house": [
+        "leave",
+        "establish"
+    ],
+    "identify": [
+        "make",
+        "find",
+        "produce",
+        "represent",
+        "describe",
+        "add",
+        "define",
+        "reach",
+        "maintain",
+        "leave",
+        "write",
+        "develop",
+        "change",
+        "indicate",
+        "allow",
+        "introduce",
+        "cite",
+        "release",
+        "remove",
+        "access",
+        "establish",
+        "handle",
+        "control",
+        "comprise",
+        "choose",
+        "read",
+        "set"
+    ],
+    "ignore": [
+        "make",
+        "develop",
+        "establish",
+        "follow",
+        "implement",
+        "produce"
+    ],
+    "illustrate": [
+        "adopt",
+        "define",
+        "describe",
+        "find",
+        "represent"
+    ],
+    "impact": [
+        "improve"
+    ],
+    "impart": [
+        "describe",
+        "find"
+    ],
+    "implement": [
+        "develop",
+        "make",
+        "describe",
+        "offer",
+        "define",
+        "introduce",
+        "represent",
+        "establish",
+        "allow",
+        "replace",
+        "find",
+        "write",
+        "maintain",
+        "call",
+        "affect",
+        "add",
+        "adopt"
+    ],
+    "import": [
+        "sell"
+    ],
+    "impose": [
+        "establish",
+        "introduce",
+        "enforce",
+        "follow",
+        "pay",
+        "reduce"
+    ],
+    "improve": [
+        "make",
+        "find",
+        "increase",
+        "affect",
+        "offer",
+        "allow",
+        "reduce",
+        "represent",
+        "develop",
+        "maintain",
+        "establish",
+        "promote",
+        "obtain",
+        "produce",
+        "control",
+        "limit"
+    ],
+    "incorporate": [
+        "make",
+        "offer",
+        "add",
+        "keep",
+        "maintain",
+        "introduce",
+        "produce",
+        "represent",
+        "share",
+        "write"
+    ],
+    "increase": [
+        "reduce",
+        "limit",
+        "improve",
+        "offer",
+        "affect",
+        "make",
+        "measure",
+        "produce",
+        "bring",
+        "lose",
+        "reach",
+        "allow",
+        "control",
+        "represent"
+    ],
+    "index": [
+        "establish",
+        "publish"
+    ],
+    "indicate": [
+        "represent",
+        "show",
+        "make",
+        "follow",
+        "describe",
+        "mark",
+        "identify",
+        "produce",
+        "add",
+        "reflect",
+        "retain",
+        "maintain",
+        "measure",
+        "offer",
+        "reduce",
+        "find"
+    ],
+    "induce": [
+        "make",
+        "mean"
+    ],
+    "inform": [
+        "ask"
+    ],
+    "inhabit": [
+        "leave"
+    ],
+    "inhibit": [
+        "increase",
+        "show",
+        "achieve",
+        "affect",
+        "analyze",
+        "cause",
+        "limit",
+        "measure",
+        "reflect"
+    ],
+    "initiate": [
+        "begin",
+        "follow",
+        "maintain",
+        "introduce",
+        "launch",
+        "start"
+    ],
+    "inline": [
+        "add",
+        "change",
+        "choose",
+        "cite",
+        "find",
+        "follow",
+        "keep",
+        "place",
+        "produce",
+        "remove",
+        "replace"
+    ],
+    "insert": [
+        "add",
+        "keep",
+        "produce",
+        "show",
+        "display",
+        "lack",
+        "offer",
+        "maintain",
+        "place",
+        "release",
+        "combine",
+        "send",
+        "sell",
+        "separate",
+        "share",
+        "represent",
+        "remove",
+        "access",
+        "receive",
+        "read",
+        "protect",
+        "move",
+        "incorporate",
+        "find",
+        "control",
+        "allow",
+        "write"
+    ],
+    "inspect": [
+        "define",
+        "represent"
+    ],
+    "instal": [
+        "obtain",
+        "offer",
+        "produce",
+        "allow",
+        "develop",
+        "install",
+        "make",
+        "purchase",
+        "release",
+        "share"
+    ],
+    "install": [
+        "allow",
+        "download"
+    ],
+    "integrate": [
+        "offer",
+        "introduce",
+        "add",
+        "access",
+        "develop",
+        "expand",
+        "find",
+        "implement",
+        "maintain",
+        "propose"
+    ],
+    "intend": [
+        "display",
+        "make",
+        "propose",
+        "share",
+        "show"
+    ],
+    "interpret": [
+        "send",
+        "represent",
+        "display",
+        "receive",
+        "obtain",
+        "modify",
+        "read",
+        "find",
+        "add",
+        "retrieve",
+        "allow",
+        "protect",
+        "publish",
+        "share",
+        "return",
+        "retain",
+        "accept",
+        "produce",
+        "access",
+        "make",
+        "improve",
+        "control",
+        "process"
+    ],
+    "introduce": [
+        "offer",
+        "develop",
+        "describe",
+        "adopt",
+        "produce",
+        "define",
+        "add",
+        "write",
+        "establish",
+        "reduce",
+        "propose",
+        "implement",
+        "change",
+        "make",
+        "follow",
+        "consider",
+        "bring",
+        "show",
+        "set",
+        "maintain",
+        "find",
+        "call",
+        "identify",
+        "choose",
+        "represent",
+        "feature",
+        "form"
+    ],
+    "invade": [
+        "leave",
+        "rule",
+        "form"
+    ],
+    "invent": [
+        "define",
+        "develop",
+        "add",
+        "establish",
+        "introduce",
+        "propose"
+    ],
+    "invest": [
+        "control",
+        "set"
+    ],
+    "investigate": [
+        "describe",
+        "develop",
+        "make",
+        "follow",
+        "improve",
+        "publish",
+        "share"
+    ],
+    "invoke": [
+        "represent",
+        "allow",
+        "call"
+    ],
+    "involve": [
+        "make",
+        "produce",
+        "allow",
+        "find",
+        "permit",
+        "represent"
+    ],
+    "issue": [
+        "establish",
+        "publish",
+        "make",
+        "release"
+    ],
+    "join": [
+        "form",
+        "lead",
+        "make",
+        "begin",
+        "establish",
+        "follow",
+        "launch",
+        "reach"
+    ],
+    "justify": [
+        "propose"
+    ],
+    "keep": [
+        "produce",
+        "make",
+        "find",
+        "leave",
+        "add",
+        "share",
+        "remove",
+        "offer",
+        "represent",
+        "maintain",
+        "move",
+        "affect",
+        "follow",
+        "change",
+        "allow",
+        "write"
+    ],
+    "kill": [
+        "represent",
+        "protect",
+        "leave",
+        "make"
+    ],
+    "know": [
+        "change",
+        "find",
+        "generate",
+        "hold",
+        "prevent",
+        "reach",
+        "receive"
+    ],
+    "lack": [
+        "add",
+        "offer",
+        "describe",
+        "make",
+        "produce",
+        "receive",
+        "keep",
+        "share",
+        "show"
+    ],
+    "land": [
+        "affect",
+        "gain",
+        "leave"
+    ],
+    "launch": [
+        "begin",
+        "develop",
+        "join",
+        "lead",
+        "host",
+        "identify",
+        "introduce",
+        "maintain",
+        "access",
+        "establish",
+        "promote",
+        "read",
+        "start",
+        "write"
+    ],
+    "lead": [
+        "make",
+        "represent",
+        "join",
+        "leave",
+        "establish",
+        "follow",
+        "form",
+        "launch"
+    ],
+    "learn": [
+        "adopt",
+        "speak"
+    ],
+    "leave": [
+        "represent",
+        "describe",
+        "establish",
+        "reach",
+        "produce",
+        "offer",
+        "find",
+        "make",
+        "move",
+        "enter",
+        "build",
+        "add",
+        "keep",
+        "lose",
+        "identify",
+        "form",
+        "capture",
+        "serve"
+    ],
+    "license": [
+        "make",
+        "develop",
+        "produce",
+        "bring",
+        "improve",
+        "obtain",
+        "offer",
+        "release"
+    ],
+    "lift": [
+        "bring",
+        "keep",
+        "move",
+        "produce",
+        "remove"
+    ],
+    "like": [
+        "analyze",
+        "read",
+        "reflect"
+    ],
+    "limit": [
+        "increase",
+        "reduce",
+        "reach",
+        "add",
+        "allow",
+        "improve",
+        "promote",
+        "control",
+        "affect",
+        "offer",
+        "specify",
+        "expand",
+        "find",
+        "retain",
+        "record",
+        "cite",
+        "publish",
+        "protect",
+        "cover",
+        "measure",
+        "establish",
+        "make",
+        "lose",
+        "grant",
+        "gain",
+        "mark"
+    ],
+    "link": [
+        "find",
+        "build"
+    ],
+    "list": [
+        "add",
+        "find",
+        "represent",
+        "cite",
+        "make",
+        "publish",
+        "host",
+        "receive",
+        "reach",
+        "indicate",
+        "cover",
+        "write",
+        "affect",
+        "implement",
+        "identify",
+        "match",
+        "produce",
+        "protect",
+        "hold",
+        "establish",
+        "apply"
+    ],
+    "locate": [
+        "cover"
+    ],
+    "lose": [
+        "gain",
+        "win",
+        "offer",
+        "reach",
+        "hold",
+        "represent",
+        "grant",
+        "leave",
+        "make",
+        "retain",
+        "increase",
+        "maintain",
+        "establish",
+        "receive"
+    ],
+    "lower": [
+        "increase",
+        "reduce"
+    ],
+    "maintain": [
+        "establish",
+        "offer",
+        "find",
+        "obtain",
+        "develop",
+        "make",
+        "promote",
+        "identify",
+        "represent",
+        "release",
+        "define",
+        "receive",
+        "reduce",
+        "allow",
+        "produce",
+        "lose",
+        "introduce",
+        "sell"
+    ],
+    "make": [
+        "produce",
+        "find",
+        "receive",
+        "develop",
+        "describe",
+        "allow",
+        "follow",
+        "add",
+        "represent",
+        "establish",
+        "offer",
+        "write",
+        "identify",
+        "change",
+        "form",
+        "bring",
+        "implement",
+        "prevent",
+        "feature",
+        "publish",
+        "retain",
+        "share"
+    ],
+    "make up": [
+        "comprise",
+        "hold",
+        "find",
+        "get",
+        "host",
+        "produce",
+        "reach"
+    ],
+    "manage": [
+        "offer"
+    ],
+    "mandate": [
+        "adopt"
+    ],
+    "manipulate": [
+        "define",
+        "describe",
+        "offer",
+        "protect",
+        "represent",
+        "change",
+        "display",
+        "introduce",
+        "write"
+    ],
+    "manufacture": [
+        "make",
+        "produce"
+    ],
+    "map": [
+        "represent"
+    ],
+    "mark": [
+        "make",
+        "indicate",
+        "find",
+        "show",
+        "avoid",
+        "reach",
+        "allow",
+        "define",
+        "describe",
+        "develop",
+        "display",
+        "win"
+    ],
+    "match": [
+        "add",
+        "increase",
+        "find",
+        "list",
+        "make",
+        "offer",
+        "produce",
+        "retain",
+        "change",
+        "control",
+        "affect",
+        "read",
+        "receive",
+        "reduce",
+        "show",
+        "write"
+    ],
+    "mean": [
+        "find",
+        "make",
+        "represent"
+    ],
+    "measure": [
+        "find",
+        "increase",
+        "reduce",
+        "produce",
+        "represent",
+        "show",
+        "describe",
+        "allow",
+        "define",
+        "indicate",
+        "establish",
+        "generate",
+        "make"
+    ],
+    "meet": [
+        "make",
+        "follow"
+    ],
+    "mention": [
+        "identify",
+        "write"
+    ],
+    "merge": [
+        "run",
+        "move",
+        "represent"
+    ],
+    "minimize": [
+        "reduce",
+        "cause",
+        "increase",
+        "make",
+        "produce",
+        "avoid",
+        "fix",
+        "leave",
+        "limit",
+        "occupy",
+        "receive",
+        "report",
+        "show",
+        "study",
+        "suffer"
+    ],
+    "mirror": [
+        "follow",
+        "represent"
+    ],
+    "miss": [
+        "make",
+        "describe",
+        "employ",
+        "find",
+        "involve",
+        "leave",
+        "protect",
+        "restrict"
+    ],
+    "mistake": [
+        "define"
+    ],
+    "mitigate": [
+        "cause",
+        "reduce"
+    ],
+    "mix": [
+        "represent",
+        "add",
+        "modify",
+        "obtain",
+        "reveal",
+        "send",
+        "share"
+    ],
+    "model": [
+        "affect",
+        "describe",
+        "offer",
+        "access",
+        "allow",
+        "establish",
+        "keep",
+        "share",
+        "study"
+    ],
+    "modify": [
+        "represent",
+        "add",
+        "make",
+        "share",
+        "improve",
+        "obtain",
+        "produce",
+        "follow",
+        "interpret",
+        "remove",
+        "send",
+        "save",
+        "return",
+        "read",
+        "move",
+        "offer",
+        "allow",
+        "find",
+        "enter",
+        "enable",
+        "develop",
+        "change",
+        "show"
+    ],
+    "monitor": [
+        "add",
+        "find",
+        "host",
+        "publish",
+        "rank",
+        "record",
+        "reduce",
+        "show"
+    ],
+    "move": [
+        "leave",
+        "make",
+        "produce",
+        "add",
+        "allow",
+        "find",
+        "keep",
+        "reach",
+        "represent",
+        "send",
+        "bring",
+        "put"
+    ],
+    "name": [
+        "enter",
+        "place"
+    ],
+    "need": [
+        "make",
+        "add",
+        "get",
+        "offer",
+        "allow",
+        "produce",
+        "release",
+        "remove",
+        "seek",
+        "write"
+    ],
+    "negotiate": [
+        "make",
+        "offer",
+        "sign",
+        "protect"
+    ],
+    "note": [
+        "find",
+        "increase",
+        "involve",
+        "make"
+    ],
+    "notify": [
+        "permit",
+        "help",
+        "inform",
+        "warn"
+    ],
+    "number": [
+        "choose",
+        "own"
+    ],
+    "observe": [
+        "follow",
+        "bring",
+        "develop",
+        "represent"
+    ],
+    "obtain": [
+        "offer",
+        "maintain",
+        "receive",
+        "find",
+        "get",
+        "share",
+        "allow",
+        "grant",
+        "represent",
+        "gain",
+        "produce",
+        "retain",
+        "improve",
+        "lose",
+        "make",
+        "publish",
+        "establish",
+        "add"
+    ],
+    "occupy": [
+        "cover",
+        "leave",
+        "reach",
+        "represent",
+        "lose",
+        "receive",
+        "buy",
+        "claim",
+        "comprise",
+        "connect",
+        "produce"
+    ],
+    "offer": [
+        "add",
+        "receive",
+        "make",
+        "allow",
+        "introduce",
+        "represent",
+        "produce",
+        "show",
+        "obtain",
+        "develop",
+        "find",
+        "maintain",
+        "leave",
+        "write",
+        "enable",
+        "display",
+        "describe",
+        "increase",
+        "lose",
+        "implement",
+        "establish",
+        "improve",
+        "change",
+        "retain",
+        "share",
+        "follow",
+        "combine",
+        "reduce",
+        "release",
+        "bring",
+        "publish"
+    ],
+    "omit": [
+        "write"
+    ],
+    "open": [
+        "establish",
+        "represent",
+        "develop",
+        "make",
+        "allow",
+        "begin",
+        "bring",
+        "build",
+        "define",
+        "maintain",
+        "produce",
+        "protect",
+        "reach"
+    ],
+    "operate": [
+        "establish",
+        "enter",
+        "expand",
+        "run",
+        "build",
+        "choose",
+        "maintain"
+    ],
+    "oppose": [
+        "establish",
+        "join",
+        "lead",
+        "lose",
+        "start"
+    ],
+    "organise": [
+        "launch"
+    ],
+    "organize": [
+        "represent",
+        "bring",
+        "share"
+    ],
+    "outline": [
+        "join"
+    ],
+    "oversee": [
+        "promote",
+        "affect",
+        "describe",
+        "increase",
+        "involve",
+        "make"
+    ],
+    "overtake": [
+        "affect"
+    ],
+    "overthrow": [
+        "establish",
+        "retain"
+    ],
+    "overturn": [
+        "approve",
+        "issue"
+    ],
+    "own": [
+        "acquire",
+        "hold",
+        "host",
+        "buy",
+        "sell",
+        "make"
+    ],
+    "paint": [
+        "add"
+    ],
+    "pass": [
+        "introduce"
+    ],
+    "pay": [
+        "offer"
+    ],
+    "perceive": [
+        "describe"
+    ],
+    "perform": [
+        "make",
+        "describe",
+        "do",
+        "offer",
+        "develop"
+    ],
+    "permit": [
+        "allow",
+        "involve",
+        "represent",
+        "employ",
+        "enable",
+        "make",
+        "prohibit",
+        "promote"
+    ],
+    "pioneer": [
+        "define",
+        "introduce",
+        "write",
+        "adopt",
+        "enable",
+        "make"
+    ],
+    "place": [
+        "add",
+        "represent",
+        "remove",
+        "find",
+        "leave",
+        "maintain",
+        "make",
+        "allow",
+        "keep",
+        "produce",
+        "read"
+    ],
+    "play": [
+        "describe",
+        "host",
+        "win",
+        "find",
+        "leave"
+    ],
+    "popularize": [
+        "describe",
+        "extend",
+        "produce"
+    ],
+    "populate": [
+        "find"
+    ],
+    "pose": [
+        "face",
+        "overcome"
+    ],
+    "possess": [
+        "acquire",
+        "place",
+        "develop",
+        "make",
+        "obtain",
+        "write"
+    ],
+    "post": [
+        "display",
+        "publish",
+        "remove",
+        "send",
+        "find",
+        "host",
+        "leave",
+        "make",
+        "produce",
+        "receive",
+        "write"
+    ],
+    "praise": [
+        "bring",
+        "develop",
+        "discuss",
+        "facilitate",
+        "limit",
+        "make",
+        "mark"
+    ],
+    "precede": [
+        "broadcast",
+        "show"
+    ],
+    "predict": [
+        "determine",
+        "report"
+    ],
+    "prefer": [
+        "join"
+    ],
+    "prefix": [
+        "match",
+        "add",
+        "change",
+        "follow",
+        "mean",
+        "receive",
+        "represent"
+    ],
+    "prepare": [
+        "make",
+        "produce"
+    ],
+    "present": [
+        "offer",
+        "describe",
+        "add",
+        "share",
+        "publish",
+        "make",
+        "introduce",
+        "keep",
+        "follow",
+        "find",
+        "produce",
+        "display",
+        "receive",
+        "release",
+        "represent",
+        "identify",
+        "maintain",
+        "adopt",
+        "read",
+        "send",
+        "cover",
+        "write"
+    ],
+    "preserve": [
+        "establish",
+        "make",
+        "find",
+        "send",
+        "publish",
+        "protect",
+        "produce",
+        "write",
+        "allow",
+        "host",
+        "offer",
+        "collect",
+        "represent",
+        "sell",
+        "identify",
+        "list",
+        "add",
+        "obtain",
+        "display",
+        "describe",
+        "buy",
+        "read",
+        "retain",
+        "access"
+    ],
+    "press": [
+        "hold"
+    ],
+    "pressure": [
+        "recognize"
+    ],
+    "prevent": [
+        "make",
+        "follow",
+        "allow",
+        "remove",
+        "encourage",
+        "prohibit"
+    ],
+    "print": [
+        "add",
+        "modify",
+        "produce",
+        "record"
+    ],
+    "prioritize": [
+        "enable",
+        "begin",
+        "introduce",
+        "offer",
+        "reduce",
+        "remove",
+        "request"
+    ],
+    "process": [
+        "display",
+        "find",
+        "interpret",
+        "save",
+        "allow",
+        "control",
+        "enter",
+        "improve",
+        "mark",
+        "produce",
+        "protect",
+        "represent",
+        "send"
+    ],
+    "proclaim": [
+        "establish",
+        "lose",
+        "oppose"
+    ],
+    "produce": [
+        "make",
+        "receive",
+        "add",
+        "generate",
+        "represent",
+        "show",
+        "offer",
+        "release",
+        "introduce",
+        "identify",
+        "write",
+        "describe",
+        "find",
+        "remove",
+        "change",
+        "leave",
+        "display",
+        "publish",
+        "define",
+        "send",
+        "form",
+        "follow",
+        "reduce",
+        "choose",
+        "develop",
+        "control",
+        "keep"
+    ],
+    "prohibit": [
+        "prevent",
+        "permit",
+        "allow",
+        "identify"
+    ],
+    "project": [
+        "make",
+        "remove"
+    ],
+    "promote": [
+        "make",
+        "maintain",
+        "allow",
+        "offer",
+        "bring",
+        "improve",
+        "develop",
+        "establish",
+        "represent"
+    ],
+    "prompt": [
+        "allow",
+        "encourage",
+        "make",
+        "prevent"
+    ],
+    "propagate": [
+        "reflect"
+    ],
+    "propose": [
+        "introduce",
+        "develop",
+        "make",
+        "publish",
+        "add",
+        "maintain",
+        "offer"
+    ],
+    "protect": [
+        "represent",
+        "affect",
+        "reach",
+        "make",
+        "remove",
+        "allow",
+        "control",
+        "establish",
+        "follow",
+        "leave",
+        "preserve"
+    ],
+    "publish": [
+        "write",
+        "release",
+        "find",
+        "add",
+        "make",
+        "produce",
+        "read",
+        "offer",
+        "send",
+        "display",
+        "leave",
+        "cite",
+        "develop",
+        "describe",
+        "share",
+        "list"
+    ],
+    "purchase": [
+        "sell",
+        "buy"
+    ],
+    "pursue": [
+        "begin",
+        "bring",
+        "develop",
+        "establish",
+        "offer",
+        "promote"
+    ],
+    "push": [
+        "introduce",
+        "form"
+    ],
+    "put": [
+        "add",
+        "produce",
+        "make",
+        "reduce",
+        "remove",
+        "change",
+        "move",
+        "find",
+        "develop",
+        "publish",
+        "represent",
+        "release",
+        "choose",
+        "place",
+        "cover",
+        "lose",
+        "keep",
+        "improve",
+        "get",
+        "send"
+    ],
+    "quote": [
+        "add",
+        "indicate",
+        "read",
+        "remove"
+    ],
+    "raid": [
+        "connect",
+        "enter",
+        "name"
+    ],
+    "raise": [
+        "reach"
+    ],
+    "rank": [
+        "leave",
+        "represent",
+        "reach",
+        "establish",
+        "find",
+        "lead",
+        "place"
+    ],
+    "ratify": [
+        "approve",
+        "receive"
+    ],
+    "reach": [
+        "leave",
+        "cover",
+        "represent",
+        "lose",
+        "make",
+        "find",
+        "identify",
+        "enter",
+        "increase",
+        "produce",
+        "protect"
+    ],
+    "read": [
+        "add",
+        "find",
+        "write",
+        "make",
+        "publish",
+        "change",
+        "represent",
+        "leave",
+        "offer",
+        "produce",
+        "receive",
+        "remove",
+        "replace",
+        "sell",
+        "display",
+        "release",
+        "access",
+        "introduce",
+        "identify",
+        "send",
+        "share"
+    ],
+    "rebuild": [
+        "build",
+        "develop",
+        "establish",
+        "introduce",
+        "obtain",
+        "offer"
+    ],
+    "receive": [
+        "make",
+        "offer",
+        "produce",
+        "add",
+        "find",
+        "win",
+        "get",
+        "obtain",
+        "gain",
+        "grant",
+        "send",
+        "cover",
+        "handle",
+        "represent",
+        "retain"
+    ],
+    "reclaim": [
+        "cover"
+    ],
+    "recognise": [
+        "retain",
+        "adopt",
+        "establish",
+        "hold",
+        "make"
+    ],
+    "recognize": [
+        "adopt",
+        "describe",
+        "establish",
+        "represent",
+        "obtain"
+    ],
+    "record": [
+        "reduce",
+        "cover",
+        "find",
+        "increase",
+        "limit",
+        "publish",
+        "reach"
+    ],
+    "recruit": [
+        "accommodate",
+        "kill",
+        "send"
+    ],
+    "redirect": [
+        "offer",
+        "prevent",
+        "add",
+        "improve",
+        "limit",
+        "make",
+        "protect"
+    ],
+    "redistribute": [
+        "distribute",
+        "make",
+        "produce",
+        "sell",
+        "share"
+    ],
+    "reduce": [
+        "increase",
+        "add",
+        "cause",
+        "limit",
+        "produce",
+        "introduce",
+        "find",
+        "measure",
+        "offer",
+        "improve",
+        "maintain",
+        "show"
+    ],
+    "refer": [
+        "add",
+        "send",
+        "change",
+        "determine",
+        "find",
+        "handle",
+        "hold",
+        "identify",
+        "represent",
+        "return"
+    ],
+    "reference": [
+        "make",
+        "describe",
+        "find",
+        "publish",
+        "release"
+    ],
+    "refine": [
+        "develop",
+        "offer",
+        "publish"
+    ],
+    "reflect": [
+        "describe",
+        "show",
+        "make",
+        "find",
+        "indicate",
+        "affect",
+        "bring",
+        "maintain",
+        "reduce",
+        "represent"
+    ],
+    "reform": [
+        "establish",
+        "reorganize",
+        "replace"
+    ],
+    "refuse": [
+        "allow",
+        "receive",
+        "accept",
+        "consider",
+        "enable",
+        "facilitate",
+        "handle",
+        "make",
+        "send",
+        "serve"
+    ],
+    "regain": [
+        "increase",
+        "make",
+        "retain",
+        "gain",
+        "offer"
+    ],
+    "regard": [
+        "describe",
+        "make",
+        "represent"
+    ],
+    "register": [
+        "add",
+        "define",
+        "find",
+        "implement",
+        "make",
+        "produce"
+    ],
+    "regulate": [
+        "increase",
+        "produce",
+        "control",
+        "enable",
+        "identify",
+        "limit"
+    ],
+    "reject": [
+        "make"
+    ],
+    "release": [
+        "publish",
+        "produce",
+        "write",
+        "add",
+        "describe",
+        "maintain",
+        "offer",
+        "find",
+        "make",
+        "show",
+        "share",
+        "distribute",
+        "remove",
+        "identify",
+        "read",
+        "feature",
+        "allow",
+        "run",
+        "control",
+        "collect",
+        "send",
+        "sell",
+        "deliver",
+        "receive",
+        "present",
+        "obtain",
+        "leave",
+        "keep",
+        "issue",
+        "introduce",
+        "need"
+    ],
+    "relieve": [
+        "allow",
+        "drive",
+        "hire",
+        "place"
+    ],
+    "remove": [
+        "add",
+        "produce",
+        "display",
+        "find",
+        "make",
+        "represent",
+        "hold",
+        "read",
+        "protect",
+        "send",
+        "release",
+        "receive",
+        "place",
+        "prevent",
+        "cite",
+        "offer",
+        "leave",
+        "keep",
+        "identify",
+        "show"
+    ],
+    "rename": [
+        "attend",
+        "represent"
+    ],
+    "render": [
+        "represent",
+        "add",
+        "produce",
+        "define",
+        "follow",
+        "indicate",
+        "modify",
+        "offer",
+        "return"
+    ],
+    "rent": [
+        "build"
+    ],
+    "reorganize": [
+        "form"
+    ],
+    "repair": [
+        "fix",
+        "leave",
+        "add",
+        "prevent",
+        "show",
+        "remove",
+        "release",
+        "read",
+        "protect",
+        "produce",
+        "offer",
+        "cause",
+        "need",
+        "keep",
+        "indicate",
+        "find",
+        "exclude",
+        "do",
+        "write"
+    ],
+    "repeal": [
+        "adopt",
+        "change",
+        "introduce",
+        "pass",
+        "propose",
+        "read",
+        "receive",
+        "surround",
+        "write"
+    ],
+    "repeat": [
+        "receive",
+        "make",
+        "access",
+        "bring",
+        "describe",
+        "display",
+        "find",
+        "interpret",
+        "post",
+        "publish",
+        "read",
+        "sell",
+        "win"
+    ],
+    "replace": [
+        "establish",
+        "make",
+        "implement",
+        "read",
+        "add",
+        "leave",
+        "produce",
+        "represent",
+        "change",
+        "define",
+        "find",
+        "retain"
+    ],
+    "report": [
+        "make",
+        "find",
+        "cause",
+        "describe",
+        "represent",
+        "develop",
+        "show",
+        "identify"
+    ],
+    "represent": [
+        "establish",
+        "make",
+        "describe",
+        "leave",
+        "find",
+        "add",
+        "produce",
+        "follow",
+        "indicate",
+        "offer",
+        "protect",
+        "change",
+        "define",
+        "identify",
+        "reach",
+        "affect",
+        "cover",
+        "develop",
+        "enter",
+        "allow",
+        "remove",
+        "write",
+        "lead",
+        "form",
+        "lose",
+        "read",
+        "modify"
+    ],
+    "reproduce": [
+        "determine",
+        "represent"
+    ],
+    "request": [
+        "offer",
+        "access",
+        "display",
+        "find",
+        "reduce",
+        "remove"
+    ],
+    "resemble": [
+        "make",
+        "add",
+        "describe",
+        "develop",
+        "replace",
+        "run",
+        "write"
+    ],
+    "reserve": [
+        "protect",
+        "buy",
+        "hold",
+        "reduce",
+        "retain"
+    ],
+    "resist": [
+        "make",
+        "generate"
+    ],
+    "resolve": [
+        "avoid",
+        "cause",
+        "find",
+        "trigger"
+    ],
+    "respect": [
+        "allow",
+        "implement",
+        "place",
+        "reduce"
+    ],
+    "restrict": [
+        "establish",
+        "protect",
+        "grant",
+        "limit",
+        "make",
+        "promote"
+    ],
+    "resume": [
+        "change"
+    ],
+    "retain": [
+        "make",
+        "find",
+        "establish",
+        "offer",
+        "add",
+        "receive",
+        "lose",
+        "change",
+        "hold",
+        "adopt",
+        "follow",
+        "gain",
+        "grant",
+        "represent",
+        "indicate",
+        "reduce",
+        "obtain",
+        "get",
+        "produce",
+        "share",
+        "replace",
+        "show",
+        "introduce",
+        "publish",
+        "maintain",
+        "remove",
+        "increase",
+        "allow",
+        "set",
+        "improve",
+        "display"
+    ],
+    "retrieve": [
+        "access",
+        "send",
+        "represent",
+        "produce",
+        "display",
+        "find",
+        "interpret",
+        "share",
+        "request",
+        "remove",
+        "preserve",
+        "modify",
+        "obtain",
+        "exclude",
+        "show",
+        "collect",
+        "convert",
+        "return",
+        "deliver",
+        "retain",
+        "organize",
+        "present",
+        "move",
+        "receive",
+        "publish",
+        "protect",
+        "add",
+        "update"
+    ],
+    "return": [
+        "send",
+        "make",
+        "represent",
+        "find",
+        "remove",
+        "receive",
+        "change",
+        "produce",
+        "publish",
+        "read",
+        "handle",
+        "display",
+        "add",
+        "modify",
+        "offer",
+        "leave",
+        "put",
+        "reach",
+        "reduce",
+        "get",
+        "retain",
+        "cover"
+    ],
+    "reveal": [
+        "find",
+        "make"
+    ],
+    "reverse": [
+        "issue"
+    ],
+    "review": [
+        "make",
+        "produce",
+        "read",
+        "write",
+        "remove",
+        "represent"
+    ],
+    "revise": [
+        "describe",
+        "develop",
+        "introduce"
+    ],
+    "revive": [
+        "establish"
+    ],
+    "revoke": [
+        "receive"
+    ],
+    "rewrite": [
+        "cite"
+    ],
+    "roll out": [
+        "describe",
+        "introduce",
+        "keep",
+        "make",
+        "offer",
+        "write"
+    ],
+    "route": [
+        "maintain",
+        "construct",
+        "direct"
+    ],
+    "rule": [
+        "invade",
+        "form",
+        "enter"
+    ],
+    "run": [
+        "make",
+        "develop",
+        "write",
+        "add",
+        "allow",
+        "produce",
+        "release"
+    ],
+    "save": [
+        "make",
+        "add",
+        "display",
+        "find",
+        "mark",
+        "modify",
+        "represent",
+        "write"
+    ],
+    "say": [
+        "make"
+    ],
+    "score": [
+        "make",
+        "produce"
+    ],
+    "scrape": [
+        "enter",
+        "establish",
+        "run",
+        "show"
+    ],
+    "search": [
+        "host",
+        "access",
+        "allow",
+        "bring",
+        "leave",
+        "write"
+    ],
+    "secure": [
+        "offer",
+        "obtain",
+        "protect",
+        "represent",
+        "share"
+    ],
+    "seek": [
+        "receive",
+        "gain",
+        "get",
+        "need",
+        "make",
+        "obtain",
+        "offer"
+    ],
+    "seize": [
+        "lose"
+    ],
+    "select": [
+        "define",
+        "represent",
+        "choose",
+        "offer",
+        "describe",
+        "find",
+        "leave"
+    ],
+    "sell": [
+        "buy",
+        "acquire",
+        "purchase",
+        "maintain",
+        "produce",
+        "read",
+        "receive",
+        "share",
+        "find",
+        "leave",
+        "make",
+        "offer",
+        "publish",
+        "hold",
+        "release"
+    ],
+    "send": [
+        "produce",
+        "write",
+        "display",
+        "find",
+        "receive",
+        "make",
+        "publish",
+        "add",
+        "leave",
+        "host",
+        "handle",
+        "remove",
+        "represent",
+        "introduce",
+        "allow",
+        "preserve",
+        "interpret",
+        "read",
+        "return",
+        "collect",
+        "move"
+    ],
+    "separate": [
+        "produce",
+        "hold"
+    ],
+    "serve": [
+        "leave",
+        "represent",
+        "hold",
+        "offer"
+    ],
+    "service": [
+        "enter",
+        "increase"
+    ],
+    "set": [
+        "make",
+        "define",
+        "introduce",
+        "establish",
+        "adopt",
+        "describe",
+        "find",
+        "identify",
+        "follow",
+        "produce",
+        "represent",
+        "retain"
+    ],
+    "set out": [
+        "establish",
+        "enjoy",
+        "follow",
+        "maintain"
+    ],
+    "set up": [
+        "form",
+        "establish",
+        "enter",
+        "leave"
+    ],
+    "share": [
+        "find",
+        "make",
+        "add",
+        "offer",
+        "obtain",
+        "develop",
+        "produce",
+        "represent",
+        "define",
+        "publish",
+        "sell",
+        "release",
+        "receive",
+        "acquire",
+        "maintain",
+        "keep",
+        "allow",
+        "write",
+        "present",
+        "enable",
+        "display",
+        "read",
+        "describe",
+        "change",
+        "remove",
+        "bring",
+        "retain",
+        "break"
+    ],
+    "shift": [
+        "find"
+    ],
+    "shoot down": [
+        "down"
+    ],
+    "show": [
+        "produce",
+        "offer",
+        "find",
+        "make",
+        "describe",
+        "add",
+        "indicate",
+        "display",
+        "reflect",
+        "introduce",
+        "reduce",
+        "represent",
+        "measure",
+        "mark",
+        "generate",
+        "receive",
+        "release",
+        "remove"
+    ],
+    "sign": [
+        "make"
+    ],
+    "signify": [
+        "indicate"
+    ],
+    "simplify": [
+        "make",
+        "allow",
+        "control",
+        "define",
+        "describe",
+        "develop",
+        "facilitate"
+    ],
+    "single": [
+        "double"
+    ],
+    "slow": [
+        "promote"
+    ],
+    "solve": [
+        "avoid",
+        "add",
+        "raise"
+    ],
+    "span": [
+        "reach"
+    ],
+    "spark": [
+        "trigger"
+    ],
+    "speak": [
+        "develop",
+        "find",
+        "learn",
+        "write"
+    ],
+    "specify": [
+        "find",
+        "describe",
+        "represent",
+        "offer",
+        "make",
+        "allow",
+        "introduce",
+        "change",
+        "develop",
+        "leave",
+        "define",
+        "expand",
+        "establish",
+        "limit",
+        "maintain",
+        "consider",
+        "produce",
+        "reduce",
+        "retain",
+        "adopt"
+    ],
+    "speed up": [
+        "drive"
+    ],
+    "spend": [
+        "make",
+        "receive"
+    ],
+    "sponsor": [
+        "host",
+        "start"
+    ],
+    "spread": [
+        "develop",
+        "adopt",
+        "define",
+        "represent"
+    ],
+    "spur": [
+        "encourage"
+    ],
+    "start": [
+        "host",
+        "make",
+        "begin",
+        "develop",
+        "produce",
+        "complete",
+        "establish",
+        "leave",
+        "read"
+    ],
+    "steal": [
+        "hide",
+        "remove"
+    ],
+    "stimulate": [
+        "affect",
+        "oversee",
+        "establish",
+        "expand",
+        "promote",
+        "simplify"
+    ],
+    "stop": [
+        "bring",
+        "facilitate",
+        "start"
+    ],
+    "store": [
+        "access",
+        "change",
+        "keep",
+        "share"
+    ],
+    "storm": [
+        "maintain"
+    ],
+    "stream": [
+        "feature",
+        "offer",
+        "produce",
+        "release"
+    ],
+    "strengthen": [
+        "establish"
+    ],
+    "stretch": [
+        "reach"
+    ],
+    "study": [
+        "make",
+        "produce",
+        "affect",
+        "describe",
+        "bring",
+        "leave",
+        "offer",
+        "reduce"
+    ],
+    "submit": [
+        "find",
+        "make",
+        "write",
+        "produce",
+        "publish",
+        "display",
+        "follow",
+        "remove"
+    ],
+    "substitute": [
+        "add",
+        "get"
+    ],
+    "sue": [
+        "leave"
+    ],
+    "suffer": [
+        "cause"
+    ],
+    "suggest": [
+        "make",
+        "find",
+        "accept",
+        "add",
+        "show"
+    ],
+    "summarize": [
+        "find",
+        "leave",
+        "represent",
+        "acquire",
+        "improve",
+        "keep",
+        "make",
+        "obtain",
+        "publish",
+        "report",
+        "retain",
+        "share"
+    ],
+    "supervise": [
+        "maintain",
+        "protect"
+    ],
+    "supplement": [
+        "add",
+        "offer"
+    ],
+    "supply": [
+        "obtain",
+        "maintain",
+        "place",
+        "sell",
+        "share"
+    ],
+    "survive": [
+        "describe",
+        "establish"
+    ],
+    "suspend": [
+        "remove"
+    ],
+    "sustain": [
+        "affect",
+        "reduce",
+        "start"
+    ],
+    "tag": [
+        "make",
+        "remove",
+        "produce",
+        "publish",
+        "write"
+    ],
+    "take on": [
+        "assign",
+        "change",
+        "feature",
+        "produce",
+        "retain"
+    ],
+    "take over": [
+        "leave",
+        "hold",
+        "lose",
+        "reach"
+    ],
+    "take up": [
+        "leave"
+    ],
+    "talk": [
+        "add",
+        "cite",
+        "list",
+        "make",
+        "prevent"
+    ],
+    "target": [
+        "represent",
+        "protect",
+        "specify"
+    ],
+    "teach": [
+        "bring",
+        "make",
+        "leave",
+        "represent"
+    ],
+    "test": [
+        "develop",
+        "introduce",
+        "add",
+        "implement",
+        "define",
+        "launch",
+        "offer",
+        "propose"
+    ],
+    "threaten": [
+        "protect"
+    ],
+    "total": [
+        "reach",
+        "comprise",
+        "cover"
+    ],
+    "trace": [
+        "promote",
+        "suggest"
+    ],
+    "train": [
+        "represent"
+    ],
+    "transclude": [
+        "add",
+        "cite",
+        "follow",
+        "prevent",
+        "remove"
+    ],
+    "transfer": [
+        "offer",
+        "produce",
+        "add",
+        "allow",
+        "hold",
+        "lose",
+        "receive",
+        "retain"
+    ],
+    "transform": [
+        "protect",
+        "allow",
+        "increase",
+        "leave",
+        "represent"
+    ],
+    "translate": [
+        "identify",
+        "remove",
+        "share",
+        "write"
+    ],
+    "transmit": [
+        "handle",
+        "receive",
+        "add",
+        "display",
+        "make",
+        "post",
+        "process",
+        "send"
+    ],
+    "transport": [
+        "produce",
+        "sell"
+    ],
+    "travel": [
+        "build",
+        "extend",
+        "locate",
+        "run"
+    ],
+    "treat": [
+        "represent",
+        "describe",
+        "define",
+        "make",
+        "write",
+        "allow",
+        "bring",
+        "convert",
+        "identify",
+        "indicate",
+        "leave",
+        "produce",
+        "set"
+    ],
+    "trigger": [
+        "cause",
+        "resolve"
+    ],
+    "try": [
+        "govern",
+        "make"
+    ],
+    "turn": [
+        "find",
+        "maintain"
+    ],
+    "turn over": [
+        "put"
+    ],
+    "type": [
+        "define",
+        "write",
+        "enter",
+        "add",
+        "allow",
+        "develop",
+        "display",
+        "make",
+        "produce",
+        "represent"
+    ],
+    "undergo": [
+        "describe",
+        "make",
+        "begin",
+        "experience",
+        "indicate"
+    ],
+    "undermine": [
+        "form",
+        "improve",
+        "increase",
+        "lose",
+        "retain"
+    ],
+    "understand": [
+        "define",
+        "describe",
+        "allow",
+        "introduce",
+        "make",
+        "represent",
+        "identify",
+        "write",
+        "add",
+        "display",
+        "enter",
+        "release",
+        "share"
+    ],
+    "undertake": [
+        "conduct",
+        "perform"
+    ],
+    "unify": [
+        "describe",
+        "establish",
+        "form",
+        "represent"
+    ],
+    "update": [
+        "add",
+        "represent",
+        "access",
+        "allow",
+        "describe",
+        "establish",
+        "introduce",
+        "move"
+    ],
+    "upgrade": [
+        "develop"
+    ],
+    "uphold": [
+        "adopt"
+    ],
+    "upload": [
+        "download",
+        "find",
+        "read",
+        "share",
+        "add",
+        "allow",
+        "host",
+        "publish",
+        "release",
+        "sell",
+        "send",
+        "serve",
+        "watch"
+    ],
+    "utilize": [
+        "make",
+        "obtain"
+    ],
+    "verify": [
+        "mention"
+    ],
+    "view": [
+        "find",
+        "allow",
+        "improve",
+        "access",
+        "develop",
+        "launch",
+        "send",
+        "represent",
+        "remove",
+        "read",
+        "display",
+        "offer",
+        "describe",
+        "add",
+        "move",
+        "bring",
+        "produce",
+        "promote",
+        "host",
+        "handle",
+        "feature",
+        "share",
+        "show",
+        "introduce"
+    ],
+    "violate": [
+        "establish",
+        "follow",
+        "introduce",
+        "maintain",
+        "enforce",
+        "read",
+        "retain",
+        "adopt",
+        "change",
+        "define",
+        "protect"
+    ],
+    "visit": [
+        "leave",
+        "find",
+        "reach",
+        "read"
+    ],
+    "voice": [
+        "follow",
+        "indicate",
+        "represent"
+    ],
+    "want": [
+        "allow",
+        "find",
+        "write",
+        "add",
+        "make",
+        "manage"
+    ],
+    "watch": [
+        "host",
+        "enable"
+    ],
+    "weaken": [
+        "enable",
+        "retain",
+        "lose"
+    ],
+    "win": [
+        "receive",
+        "lose",
+        "hold",
+        "host",
+        "make",
+        "earn"
+    ],
+    "withdraw": [
+        "send",
+        "receive"
+    ],
+    "work": [
+        "change",
+        "produce"
+    ],
+    "wrap": [
+        "leave"
+    ],
+    "write": [
+        "make",
+        "publish",
+        "add",
+        "produce",
+        "release",
+        "introduce",
+        "find",
+        "read",
+        "offer",
+        "represent",
+        "develop",
+        "send",
+        "describe",
+        "identify",
+        "cover",
+        "allow",
+        "combine",
+        "display",
+        "implement",
+        "host",
+        "follow",
+        "establish",
+        "enter",
+        "run",
+        "share",
+        "define"
+    ],
+    "yield": [
+        "make",
+        "measure",
+        "place",
+        "apply",
+        "display",
+        "find",
+        "obtain",
+        "protect",
+        "represent",
+        "send",
+        "show"
+    ]
+}

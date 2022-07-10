@@ -1,0 +1,6496 @@
+{
+    "abandon": [
+        "reject",
+        "adopt",
+        "ignore"
+    ],
+    "abolish": [
+        "repeal",
+        "enact",
+        "impose",
+        "amend",
+        "overturn",
+        "enforce",
+        "uphold",
+        "eliminate",
+        "prohibit"
+    ],
+    "absorb": [
+        "accumulate",
+        "lessen",
+        "retain",
+        "consume",
+        "reduce",
+        "minimize",
+        "emit"
+    ],
+    "abuse": [
+        "concern",
+        "punish",
+        "prevent"
+    ],
+    "accelerate": [
+        "facilitate",
+        "achieve",
+        "stimulate",
+        "enable",
+        "expand",
+        "strengthen"
+    ],
+    "accept": [
+        "reject",
+        "refuse",
+        "assume",
+        "deny",
+        "recognize",
+        "allow",
+        "withdraw",
+        "ignore",
+        "decide",
+        "approve",
+        "want"
+    ],
+    "access": [
+        "secure",
+        "allow",
+        "enable",
+        "connect",
+        "open",
+        "facilitate",
+        "separate",
+        "ensure",
+        "receive",
+        "enter",
+        "manage",
+        "obtain"
+    ],
+    "accommodate": [
+        "allow",
+        "facilitate",
+        "encompass",
+        "incorporate",
+        "extend",
+        "permit",
+        "ensure",
+        "handle",
+        "utilize",
+        "adjust",
+        "anticipate"
+    ],
+    "accompany": [
+        "convey",
+        "describe",
+        "present"
+    ],
+    "accomplish": [
+        "achieve",
+        "implement"
+    ],
+    "accumulate": [
+        "absorb",
+        "collect",
+        "generate",
+        "decrease",
+        "retain",
+        "earn"
+    ],
+    "accuse": [
+        "criticize",
+        "blame",
+        "persuade",
+        "prosecute"
+    ],
+    "achieve": [
+        "attain",
+        "accomplish",
+        "maintain",
+        "ensure",
+        "improve",
+        "sustain",
+        "enhance",
+        "develop",
+        "gain",
+        "demonstrate",
+        "establish",
+        "implement",
+        "deliver"
+    ],
+    "acknowledge": [
+        "deny"
+    ],
+    "acquire": [
+        "obtain",
+        "possess",
+        "invest",
+        "utilize",
+        "develop",
+        "retain",
+        "purchase",
+        "sell",
+        "seek",
+        "pursue",
+        "gain"
+    ],
+    "activate": [
+        "enable",
+        "enter"
+    ],
+    "adapt": [
+        "integrate",
+        "incorporate",
+        "develop",
+        "utilize",
+        "alter",
+        "change"
+    ],
+    "add": [
+        "make",
+        "want",
+        "combine",
+        "put",
+        "need",
+        "remove",
+        "paste",
+        "allow",
+        "bring",
+        "list"
+    ],
+    "address": [
+        "request",
+        "send",
+        "specify",
+        "identify",
+        "correct",
+        "change"
+    ],
+    "adjust": [
+        "change",
+        "modify",
+        "allow",
+        "determine",
+        "minimize",
+        "calculate"
+    ],
+    "administer": [
+        "establish",
+        "manage"
+    ],
+    "admit": [
+        "understand"
+    ],
+    "adopt": [
+        "implement",
+        "enact",
+        "propose",
+        "impose",
+        "approve",
+        "establish",
+        "abandon",
+        "introduce",
+        "enforce",
+        "encourage",
+        "embrace",
+        "foster",
+        "decide",
+        "consider",
+        "adapt"
+    ],
+    "advance": [
+        "credit",
+        "order",
+        "accept",
+        "obtain",
+        "receive",
+        "further",
+        "direct"
+    ],
+    "advertise": [
+        "sell",
+        "promote",
+        "intend",
+        "offer",
+        "publish"
+    ],
+    "advise": [
+        "intend"
+    ],
+    "advocate": [
+        "endorse",
+        "encourage",
+        "promote",
+        "adopt",
+        "seek",
+        "criticize",
+        "consider",
+        "defend",
+        "espouse"
+    ],
+    "affect": [
+        "impact",
+        "effect",
+        "cause",
+        "increase",
+        "decrease",
+        "harm",
+        "influence",
+        "impair",
+        "change",
+        "determine",
+        "diminish",
+        "alter",
+        "reduce",
+        "contribute"
+    ],
+    "afford": [
+        "pay",
+        "expect",
+        "need"
+    ],
+    "aggravate": [
+        "alleviate"
+    ],
+    "agree": [
+        "say"
+    ],
+    "aid": [
+        "help",
+        "assist",
+        "improve",
+        "fund",
+        "seek",
+        "grant",
+        "ensure"
+    ],
+    "alert": [
+        "warn"
+    ],
+    "allege": [
+        "sue"
+    ],
+    "alleviate": [
+        "reduce",
+        "aggravate"
+    ],
+    "allow": [
+        "enable",
+        "permit",
+        "restrict",
+        "make",
+        "need",
+        "encourage",
+        "ensure",
+        "extend",
+        "accommodate",
+        "facilitate",
+        "utilize"
+    ],
+    "alter": [
+        "modify",
+        "affect",
+        "change",
+        "manipulate",
+        "adapt",
+        "restrict",
+        "determine",
+        "influence",
+        "reflect"
+    ],
+    "amass": [
+        "acquire",
+        "exert",
+        "wield"
+    ],
+    "amend": [
+        "revise",
+        "repeal",
+        "enact",
+        "approve",
+        "promulgate",
+        "abolish",
+        "enforce",
+        "prohibit",
+        "ratify",
+        "impose"
+    ],
+    "amplify": [
+        "stimulate"
+    ],
+    "analyse": [
+        "analyze",
+        "examine",
+        "evaluate",
+        "interpret",
+        "summarize",
+        "collate",
+        "synthesize",
+        "classify",
+        "identify"
+    ],
+    "analyze": [
+        "analyse",
+        "evaluate",
+        "examine",
+        "assess",
+        "interpret",
+        "identify",
+        "determine",
+        "summarize"
+    ],
+    "annex": [
+        "occupy",
+        "enclose",
+        "invade",
+        "cede",
+        "evacuate",
+        "encompass",
+        "establish"
+    ],
+    "announce": [
+        "launch",
+        "introduce",
+        "release",
+        "sponsor",
+        "celebrate",
+        "intend",
+        "continue",
+        "join",
+        "discuss",
+        "bring",
+        "begin",
+        "attend",
+        "publish"
+    ],
+    "answer": [
+        "ask"
+    ],
+    "append": [
+        "attribute",
+        "omit",
+        "modify",
+        "encode"
+    ],
+    "apply": [
+        "obtain",
+        "allow",
+        "permit",
+        "consider",
+        "need",
+        "specify",
+        "determine",
+        "refer",
+        "order"
+    ],
+    "appoint": [
+        "elect",
+        "nominate",
+        "designate",
+        "instruct",
+        "supervise",
+        "resign",
+        "persuade"
+    ],
+    "appreciate": [
+        "realize"
+    ],
+    "approach": [
+        "understand",
+        "describe"
+    ],
+    "appropriate": [
+        "establish",
+        "obtain"
+    ],
+    "approve": [
+        "authorize",
+        "reject",
+        "oppose",
+        "amend",
+        "adopt",
+        "veto",
+        "accept",
+        "propose",
+        "revise",
+        "ratify"
+    ],
+    "archive": [
+        "file",
+        "upload",
+        "publish",
+        "edit",
+        "link",
+        "list",
+        "search",
+        "update",
+        "delete"
+    ],
+    "article": [
+        "read",
+        "publish",
+        "cite",
+        "write"
+    ],
+    "ask": [
+        "tell",
+        "answer",
+        "please",
+        "explain"
+    ],
+    "assemble": [
+        "construct",
+        "build",
+        "make",
+        "distribute"
+    ],
+    "assert": [
+        "deny",
+        "assume",
+        "reject",
+        "defend"
+    ],
+    "assess": [
+        "evaluate",
+        "determine",
+        "analyze",
+        "identify",
+        "investigate",
+        "demonstrate",
+        "establish",
+        "predict",
+        "develop"
+    ],
+    "assign": [
+        "specify",
+        "modify",
+        "designate",
+        "determine",
+        "attribute",
+        "define",
+        "delete",
+        "execute",
+        "select",
+        "identify"
+    ],
+    "assimilate": [
+        "displace",
+        "integrate",
+        "expel"
+    ],
+    "assist": [
+        "help",
+        "aid",
+        "improve",
+        "inform",
+        "encourage",
+        "serve",
+        "enable"
+    ],
+    "associate": [
+        "recognize",
+        "assume",
+        "establish"
+    ],
+    "assume": [
+        "know"
+    ],
+    "assure": [
+        "ensure",
+        "guarantee",
+        "maintain",
+        "establish",
+        "advise"
+    ],
+    "attach": [
+        "enclose",
+        "bind",
+        "allow",
+        "add",
+        "handle",
+        "hold"
+    ],
+    "attack": [
+        "kill",
+        "strike",
+        "defend",
+        "destroy",
+        "defeat",
+        "force",
+        "fire",
+        "target"
+    ],
+    "attain": [
+        "achieve",
+        "obtain",
+        "seek",
+        "gain",
+        "maintain",
+        "pursue"
+    ],
+    "attend": [
+        "join",
+        "teach"
+    ],
+    "attract": [
+        "encourage",
+        "discourage",
+        "motivate",
+        "garner",
+        "promote",
+        "generate",
+        "retain"
+    ],
+    "attribute": [
+        "specify",
+        "define",
+        "assign",
+        "append",
+        "assert",
+        "tag",
+        "indicate"
+    ],
+    "augment": [
+        "incorporate"
+    ],
+    "author": [
+        "write"
+    ],
+    "authorize": [
+        "approve",
+        "prohibit",
+        "revoke",
+        "permit",
+        "compel",
+        "restrict",
+        "enforce"
+    ],
+    "automate": [
+        "simplify",
+        "enable"
+    ],
+    "average": [
+        "total",
+        "increase",
+        "yield"
+    ],
+    "avoid": [
+        "prevent",
+        "minimize",
+        "eliminate",
+        "reduce",
+        "consider",
+        "stop",
+        "ignore",
+        "keep",
+        "need"
+    ],
+    "award": [
+        "honor",
+        "grant",
+        "receive",
+        "earn",
+        "win",
+        "announce"
+    ],
+    "back": [
+        "keep",
+        "come"
+    ],
+    "balance": [
+        "maintain",
+        "increase",
+        "change",
+        "reduce"
+    ],
+    "ban": [
+        "prohibit",
+        "restrict",
+        "oppose",
+        "repeal",
+        "impose",
+        "overturn",
+        "mandate",
+        "permit",
+        "approve",
+        "outlaw",
+        "abolish"
+    ],
+    "bar": [
+        "open",
+        "end"
+    ],
+    "base": [
+        "end",
+        "frame"
+    ],
+    "battle": [
+        "fight",
+        "destroy"
+    ],
+    "bear": [
+        "carry",
+        "lay",
+        "stand"
+    ],
+    "beat": [
+        "win",
+        "defeat"
+    ],
+    "begin": [
+        "start",
+        "continue",
+        "decide",
+        "end"
+    ],
+    "benefit": [
+        "encourage",
+        "affect",
+        "help"
+    ],
+    "best": [
+        "find",
+        "make"
+    ],
+    "betray": [
+        "deceive",
+        "accuse"
+    ],
+    "bind": [
+        "attach",
+        "alter",
+        "assign",
+        "modify",
+        "specify"
+    ],
+    "blame": [
+        "accuse",
+        "criticize",
+        "assume"
+    ],
+    "bleed": [
+        "breathe",
+        "pull"
+    ],
+    "blend": [
+        "combine",
+        "mix",
+        "incorporate",
+        "enhance",
+        "impart",
+        "extract",
+        "add"
+    ],
+    "block": [
+        "stop",
+        "turn",
+        "end",
+        "set",
+        "signal",
+        "break",
+        "prevent",
+        "target",
+        "bypass"
+    ],
+    "boast": [
+        "surpass",
+        "offer",
+        "encompass",
+        "feature"
+    ],
+    "bombard": [
+        "devastate"
+    ],
+    "boost": [
+        "increase",
+        "improve",
+        "reduce",
+        "stimulate"
+    ],
+    "border": [
+        "close"
+    ],
+    "breach": [
+        "violate",
+        "enforce",
+        "infringe",
+        "claim"
+    ],
+    "break": [
+        "end",
+        "leave",
+        "start",
+        "get",
+        "catch",
+        "move",
+        "keep"
+    ],
+    "breathe": [
+        "bleed"
+    ],
+    "breve": [
+        "y."
+    ],
+    "bring": [
+        "make",
+        "put",
+        "need",
+        "want",
+        "keep",
+        "help",
+        "get"
+    ],
+    "bring along": [
+        "enforce",
+        "carry",
+        "calculate"
+    ],
+    "bring in": [
+        "document"
+    ],
+    "bring on": [
+        "summon"
+    ],
+    "broadcast": [
+        "live",
+        "show",
+        "host",
+        "watch",
+        "distribute",
+        "capture"
+    ],
+    "broaden": [
+        "expand",
+        "widen"
+    ],
+    "browse": [
+        "search",
+        "find",
+        "navigate",
+        "check"
+    ],
+    "build": [
+        "develop",
+        "construct",
+        "rebuild",
+        "make",
+        "need",
+        "upgrade",
+        "project",
+        "improve",
+        "help",
+        "maintain",
+        "own",
+        "generate",
+        "work"
+    ],
+    "bundle": [
+        "get",
+        "charge"
+    ],
+    "burn": [
+        "lose",
+        "turn"
+    ],
+    "bury": [
+        "settle"
+    ],
+    "buy": [
+        "purchase",
+        "sell",
+        "order",
+        "get",
+        "find",
+        "want",
+        "store",
+        "pay",
+        "invest"
+    ],
+    "bypass": [
+        "prevent",
+        "avoid",
+        "restrict",
+        "access",
+        "block"
+    ],
+    "calculate": [
+        "compute",
+        "determine",
+        "estimate",
+        "analyze",
+        "derive",
+        "evaluate",
+        "predict",
+        "generate",
+        "adjust",
+        "measure"
+    ],
+    "call": [
+        "ask",
+        "please",
+        "send",
+        "speak",
+        "tell",
+        "talk",
+        "hear",
+        "know"
+    ],
+    "cancel": [
+        "terminate"
+    ],
+    "capture": [
+        "recapture",
+        "seize",
+        "enable",
+        "convey",
+        "allow",
+        "analyze",
+        "identify",
+        "transform",
+        "retrieve"
+    ],
+    "carry": [
+        "bring",
+        "hold",
+        "need",
+        "keep",
+        "allow",
+        "make",
+        "could"
+    ],
+    "carry out": [
+        "sustain",
+        "carry",
+        "condemn"
+    ],
+    "cast": [
+        "show",
+        "turn"
+    ],
+    "catch": [
+        "grab",
+        "throw",
+        "break"
+    ],
+    "categorize": [
+        "analyse"
+    ],
+    "cause": [
+        "affect",
+        "suffer",
+        "prevent"
+    ],
+    "cease": [
+        "continue",
+        "refuse",
+        "withdraw",
+        "begin",
+        "forbid"
+    ],
+    "cede": [
+        "relinquish",
+        "usurp",
+        "reassert",
+        "renounce",
+        "seize",
+        "surrender",
+        "exert"
+    ],
+    "celebrate": [
+        "honor",
+        "bring",
+        "enjoy",
+        "announce",
+        "showcase"
+    ],
+    "chair": [
+        "head",
+        "hold"
+    ],
+    "challenge": [
+        "make",
+        "win"
+    ],
+    "change": [
+        "need",
+        "shift",
+        "move",
+        "affect",
+        "want",
+        "reflect",
+        "make",
+        "mean",
+        "adjust"
+    ],
+    "characterize": [
+        "describe",
+        "differentiate",
+        "define"
+    ],
+    "charge": [
+        "pay",
+        "commission",
+        "order",
+        "claim",
+        "transfer",
+        "credit"
+    ],
+    "chase": [
+        "fight"
+    ],
+    "check": [
+        "get",
+        "find",
+        "verify",
+        "click",
+        "visit",
+        "list"
+    ],
+    "choose": [
+        "select",
+        "want",
+        "prefer",
+        "find",
+        "consider",
+        "need",
+        "make",
+        "customize",
+        "allow"
+    ],
+    "circumvent": [
+        "violate",
+        "enforce"
+    ],
+    "cite": [
+        "assert",
+        "ignore",
+        "dismiss",
+        "refer",
+        "article",
+        "explain",
+        "summarize",
+        "mention",
+        "suggest"
+    ],
+    "claim": [
+        "deny",
+        "prove",
+        "assert",
+        "assume",
+        "regard",
+        "reject",
+        "defend",
+        "dismiss",
+        "respect"
+    ],
+    "clarify": [
+        "emphasize"
+    ],
+    "classify": [
+        "identify",
+        "interpret",
+        "analyse",
+        "exclude"
+    ],
+    "clear": [
+        "make",
+        "point",
+        "correct"
+    ],
+    "click": [
+        "select",
+        "check",
+        "choose",
+        "submit",
+        "list",
+        "find",
+        "send"
+    ],
+    "clinch": [
+        "win",
+        "lose"
+    ],
+    "close": [
+        "place",
+        "reach",
+        "end",
+        "open"
+    ],
+    "coach": [
+        "lead",
+        "beat",
+        "play"
+    ],
+    "code": [
+        "modify"
+    ],
+    "coin": [
+        "note"
+    ],
+    "collate": [
+        "analyse",
+        "analyze"
+    ],
+    "collect": [
+        "gather",
+        "obtain",
+        "retrieve",
+        "accumulate",
+        "distribute",
+        "identify",
+        "send",
+        "analyze",
+        "receive",
+        "donate",
+        "pay",
+        "examine"
+    ],
+    "combat": [
+        "reduce"
+    ],
+    "combine": [
+        "incorporate",
+        "blend",
+        "add",
+        "utilize",
+        "complement",
+        "enhance",
+        "integrate",
+        "mix",
+        "bring",
+        "merge",
+        "transform",
+        "allow"
+    ],
+    "command": [
+        "assign"
+    ],
+    "commemorate": [
+        "mark"
+    ],
+    "commission": [
+        "charge"
+    ],
+    "commit": [
+        "refuse"
+    ],
+    "communicate": [
+        "transmit",
+        "integrate",
+        "interpret",
+        "understand"
+    ],
+    "compare": [
+        "find",
+        "evaluate",
+        "determine",
+        "consider",
+        "analyze",
+        "calculate"
+    ],
+    "compel": [
+        "authorize",
+        "urge"
+    ],
+    "compile": [
+        "execute",
+        "modify",
+        "generate",
+        "specify"
+    ],
+    "complement": [
+        "combine",
+        "integrate",
+        "encompass",
+        "reflect"
+    ],
+    "complete": [
+        "need",
+        "pass",
+        "make",
+        "offer",
+        "total"
+    ],
+    "compose": [
+        "write",
+        "assign"
+    ],
+    "comprise": [
+        "constitute",
+        "encompass",
+        "present",
+        "represent",
+        "separate",
+        "employ",
+        "utilize",
+        "involve"
+    ],
+    "compromise": [
+        "reject"
+    ],
+    "compute": [
+        "calculate",
+        "derive",
+        "analyze",
+        "determine",
+        "optimize",
+        "assign",
+        "generate",
+        "define"
+    ],
+    "conceal": [
+        "hide",
+        "disclose",
+        "reveal"
+    ],
+    "concentrate": [
+        "absorb",
+        "reduce",
+        "keep",
+        "develop"
+    ],
+    "concern": [
+        "regard",
+        "affect"
+    ],
+    "conclude": [
+        "imply",
+        "observe"
+    ],
+    "condemn": [
+        "oppose",
+        "forbid"
+    ],
+    "conduct": [
+        "undertake",
+        "investigate",
+        "establish",
+        "regard",
+        "initiate",
+        "examine",
+        "facilitate",
+        "constitute",
+        "observe",
+        "supervise"
+    ],
+    "confer": [
+        "signify",
+        "revoke"
+    ],
+    "configure": [
+        "enable",
+        "deploy"
+    ],
+    "confirm": [
+        "verify",
+        "indicate",
+        "inform",
+        "identify"
+    ],
+    "confiscate": [
+        "steal"
+    ],
+    "confuse": [
+        "discourage"
+    ],
+    "connect": [
+        "enable",
+        "access",
+        "integrate",
+        "locate",
+        "switch",
+        "need",
+        "reach"
+    ],
+    "conquer": [
+        "invade",
+        "defend"
+    ],
+    "conserve": [
+        "preserve",
+        "reduce",
+        "minimize",
+        "reuse",
+        "retain"
+    ],
+    "consider": [
+        "decide",
+        "suggest",
+        "regard",
+        "need",
+        "understand",
+        "want",
+        "expect",
+        "prefer"
+    ],
+    "consist": [
+        "involve",
+        "represent"
+    ],
+    "consolidate": [
+        "reorganize",
+        "establish",
+        "strengthen",
+        "organize",
+        "maintain"
+    ],
+    "constitute": [
+        "comprise",
+        "represent",
+        "regard",
+        "conduct",
+        "involve",
+        "derive",
+        "establish"
+    ],
+    "construct": [
+        "build",
+        "generate",
+        "reconstruct",
+        "define",
+        "develop",
+        "establish",
+        "transform",
+        "assemble",
+        "analyze",
+        "derive"
+    ],
+    "consult": [
+        "evaluate"
+    ],
+    "consume": [
+        "absorb",
+        "produce",
+        "devote",
+        "reduce"
+    ],
+    "contact": [
+        "email",
+        "notify",
+        "ask",
+        "form",
+        "direct"
+    ],
+    "contaminate": [
+        "disrupt",
+        "divert"
+    ],
+    "contest": [
+        "draw"
+    ],
+    "continue": [
+        "begin",
+        "keep",
+        "bring",
+        "start",
+        "seek",
+        "encourage",
+        "expand",
+        "follow"
+    ],
+    "contradict": [
+        "misrepresent",
+        "criticize"
+    ],
+    "contribute": [
+        "improve",
+        "develop",
+        "sustain",
+        "increase",
+        "reduce",
+        "affect",
+        "reflect",
+        "maintain",
+        "facilitate"
+    ],
+    "control": [
+        "power",
+        "switch",
+        "monitor",
+        "prevent",
+        "allow",
+        "maintain",
+        "force",
+        "change",
+        "operate",
+        "signal",
+        "trigger",
+        "reduce"
+    ],
+    "convene": [
+        "discuss",
+        "initiate"
+    ],
+    "convert": [
+        "format",
+        "encode",
+        "import",
+        "generate",
+        "transform",
+        "export",
+        "extract",
+        "output",
+        "merge"
+    ],
+    "convey": [
+        "describe",
+        "interpret",
+        "reflect",
+        "express",
+        "illustrate",
+        "distinguish"
+    ],
+    "convince": [
+        "tell",
+        "ask"
+    ],
+    "coordinate": [
+        "organize"
+    ],
+    "copy": [
+        "duplicate",
+        "publish",
+        "print",
+        "read",
+        "upload",
+        "write",
+        "send",
+        "submit"
+    ],
+    "correct": [
+        "point",
+        "change"
+    ],
+    "cost": [
+        "pay",
+        "purchase",
+        "increase",
+        "reduce",
+        "spend",
+        "order"
+    ],
+    "could": [
+        "want"
+    ],
+    "count": [
+        "equal",
+        "limit",
+        "rank",
+        "mean",
+        "repeat",
+        "measure"
+    ],
+    "counter": [
+        "order",
+        "prevent"
+    ],
+    "counteract": [
+        "mitigate",
+        "minimize",
+        "inhibit",
+        "reduce"
+    ],
+    "cover": [
+        "put",
+        "track",
+        "roll",
+        "cut",
+        "issue",
+        "wrap",
+        "fill",
+        "print",
+        "need",
+        "back",
+        "keep"
+    ],
+    "cover up": [
+        "sustain"
+    ],
+    "crawl": [
+        "scrape"
+    ],
+    "credit": [
+        "advance",
+        "charge"
+    ],
+    "criticise": [
+        "undermine",
+        "oppose"
+    ],
+    "criticize": [
+        "accuse",
+        "blame",
+        "ignore",
+        "deny"
+    ],
+    "cross": [
+        "parallel",
+        "pull"
+    ],
+    "crown": [
+        "face"
+    ],
+    "cultivate": [
+        "sustain"
+    ],
+    "curb": [
+        "reduce",
+        "increase"
+    ],
+    "customize": [
+        "modify",
+        "choose",
+        "utilize"
+    ],
+    "cut": [
+        "put",
+        "make",
+        "end",
+        "split",
+        "get",
+        "reduce"
+    ],
+    "damage": [
+        "harm",
+        "affect",
+        "protect",
+        "destroy",
+        "impact"
+    ],
+    "date": [
+        "order"
+    ],
+    "deceive": [
+        "betray",
+        "convince"
+    ],
+    "decide": [
+        "consider"
+    ],
+    "declare": [
+        "proclaim",
+        "intend",
+        "uphold"
+    ],
+    "decorate": [
+        "add",
+        "choose"
+    ],
+    "decrease": [
+        "increase",
+        "reduce",
+        "lower",
+        "minimize",
+        "affect",
+        "diminish",
+        "eliminate",
+        "indicate"
+    ],
+    "defeat": [
+        "win",
+        "fight",
+        "beat",
+        "overcome",
+        "attack",
+        "defend",
+        "upset",
+        "oust",
+        "regain",
+        "lose"
+    ],
+    "defend": [
+        "protect",
+        "deny",
+        "attack",
+        "oppose",
+        "assert"
+    ],
+    "define": [
+        "describe",
+        "distinguish",
+        "specify",
+        "identify",
+        "determine",
+        "redefine",
+        "interpret",
+        "differentiate",
+        "establish",
+        "attribute",
+        "represent",
+        "characterize",
+        "evaluate"
+    ],
+    "deflect": [
+        "divert"
+    ],
+    "defy": [
+        "dictate",
+        "condemn",
+        "circumvent"
+    ],
+    "delay": [
+        "prevent"
+    ],
+    "delegate": [
+        "assign",
+        "override"
+    ],
+    "delete": [
+        "duplicate",
+        "disable",
+        "remove",
+        "modify",
+        "edit",
+        "upload",
+        "erase",
+        "file",
+        "assign",
+        "retrieve",
+        "redirect",
+        "specify"
+    ],
+    "delimit": [
+        "enclose",
+        "denote",
+        "define"
+    ],
+    "deliver": [
+        "bring",
+        "achieve",
+        "produce",
+        "offer",
+        "enable",
+        "receive",
+        "maintain",
+        "enhance",
+        "expect",
+        "need"
+    ],
+    "demand": [
+        "increase",
+        "need",
+        "produce",
+        "maintain"
+    ],
+    "demonstrate": [
+        "assess",
+        "develop",
+        "prove",
+        "identify",
+        "establish",
+        "achieve",
+        "describe",
+        "explain",
+        "determine"
+    ],
+    "denote": [
+        "signify",
+        "distinguish",
+        "indicate",
+        "represent",
+        "define",
+        "designate",
+        "infer",
+        "delimit"
+    ],
+    "deny": [
+        "reject",
+        "assert",
+        "acknowledge",
+        "dismiss",
+        "accept",
+        "defend",
+        "oppose",
+        "prove"
+    ],
+    "depict": [
+        "resemble",
+        "represent",
+        "describe",
+        "denote"
+    ],
+    "deploy": [
+        "configure",
+        "enable",
+        "manage",
+        "install"
+    ],
+    "depose": [
+        "overthrow",
+        "compel"
+    ],
+    "deposit": [
+        "pay",
+        "advance",
+        "withdraw",
+        "receive"
+    ],
+    "derive": [
+        "interpret",
+        "distinguish",
+        "compute",
+        "calculate",
+        "generate",
+        "differentiate",
+        "characterize",
+        "define"
+    ],
+    "describe": [
+        "explain",
+        "define",
+        "understand",
+        "characterize",
+        "refer",
+        "distinguish",
+        "illustrate",
+        "identify",
+        "interpret",
+        "suggest",
+        "demonstrate"
+    ],
+    "deserve": [
+        "owe",
+        "get"
+    ],
+    "design": [
+        "incorporate",
+        "model",
+        "enhance",
+        "develop"
+    ],
+    "designate": [
+        "assign",
+        "appoint",
+        "establish",
+        "specify",
+        "denote",
+        "identify"
+    ],
+    "destroy": [
+        "kill",
+        "weaken",
+        "protect",
+        "attack",
+        "devastate"
+    ],
+    "detail": [
+        "describe",
+        "reveal",
+        "reflect"
+    ],
+    "detect": [
+        "identify",
+        "determine",
+        "analyze",
+        "indicate",
+        "verify",
+        "differentiate"
+    ],
+    "determine": [
+        "evaluate",
+        "assess",
+        "identify",
+        "analyze",
+        "indicate",
+        "calculate",
+        "establish",
+        "decide",
+        "quantify",
+        "verify",
+        "obtain",
+        "investigate",
+        "define"
+    ],
+    "devastate": [
+        "destroy"
+    ],
+    "develop": [
+        "establish",
+        "improve",
+        "demonstrate",
+        "build",
+        "contribute",
+        "integrate",
+        "achieve",
+        "expand",
+        "evaluate",
+        "enhance",
+        "implement",
+        "encourage",
+        "strengthen",
+        "assess"
+    ],
+    "devise": [
+        "invent",
+        "propose",
+        "employ",
+        "implement",
+        "adapt",
+        "establish"
+    ],
+    "devote": [
+        "spend",
+        "invest"
+    ],
+    "dictate": [
+        "govern",
+        "decide",
+        "affect"
+    ],
+    "differentiate": [
+        "identify",
+        "characterize",
+        "define",
+        "integrate",
+        "derive"
+    ],
+    "dig": [
+        "lay"
+    ],
+    "digest": [
+        "consume",
+        "summarize",
+        "read"
+    ],
+    "digitize": [
+        "preserve",
+        "distribute",
+        "analyze"
+    ],
+    "diminish": [
+        "undermine",
+        "reduce",
+        "decrease"
+    ],
+    "direct": [
+        "transfer",
+        "contact",
+        "allow",
+        "offer",
+        "establish",
+        "charge",
+        "advance",
+        "send",
+        "receive"
+    ],
+    "disable": [
+        "delete",
+        "enable",
+        "modify",
+        "remove",
+        "install",
+        "fix"
+    ],
+    "disallow": [
+        "override"
+    ],
+    "disambiguate": [
+        "parse",
+        "transclude"
+    ],
+    "disclose": [
+        "withhold",
+        "acknowledge"
+    ],
+    "discourage": [
+        "encourage",
+        "prohibit",
+        "prevent",
+        "confuse"
+    ],
+    "discover": [
+        "find",
+        "locate",
+        "investigate",
+        "identify"
+    ],
+    "discuss": [
+        "talk",
+        "explain",
+        "examine",
+        "consider",
+        "investigate",
+        "decide",
+        "inform",
+        "understand",
+        "introduce",
+        "explore",
+        "begin"
+    ],
+    "dismiss": [
+        "deny",
+        "reject"
+    ],
+    "dispatch": [
+        "send",
+        "request",
+        "order",
+        "call"
+    ],
+    "displace": [
+        "expel",
+        "assimilate"
+    ],
+    "display": [
+        "monitor",
+        "exhibit",
+        "touch",
+        "feature",
+        "show",
+        "view",
+        "appear",
+        "indicate",
+        "detail",
+        "signal"
+    ],
+    "dispute": [
+        "question",
+        "dismiss"
+    ],
+    "disrupt": [
+        "impede",
+        "subvert",
+        "affect",
+        "overwhelm"
+    ],
+    "disseminate": [
+        "distribute",
+        "propagate",
+        "publish",
+        "synthesize",
+        "disclose"
+    ],
+    "distinguish": [
+        "perceive",
+        "recognize",
+        "describe",
+        "define",
+        "interpret",
+        "derive",
+        "indicate"
+    ],
+    "distribute": [
+        "disseminate",
+        "redistribute",
+        "publish",
+        "collect",
+        "allow",
+        "administer",
+        "obtain",
+        "produce",
+        "organize",
+        "reproduce",
+        "generate"
+    ],
+    "divert": [
+        "deflect",
+        "curtail",
+        "disrupt"
+    ],
+    "divide": [
+        "split",
+        "unite",
+        "equal",
+        "separate",
+        "define",
+        "unify",
+        "represent",
+        "occupy",
+        "allocate"
+    ],
+    "do": [
+        "know",
+        "think",
+        "need",
+        "make"
+    ],
+    "document": [
+        "report",
+        "publish",
+        "specify",
+        "appropriate"
+    ],
+    "dominate": [
+        "disrupt",
+        "continue",
+        "influence",
+        "attract"
+    ],
+    "donate": [
+        "raise",
+        "collect",
+        "receive",
+        "purchase"
+    ],
+    "double": [
+        "single",
+        "separate",
+        "end",
+        "put"
+    ],
+    "download": [
+        "free",
+        "upload",
+        "update",
+        "copy",
+        "install",
+        "search",
+        "submit",
+        "edit",
+        "link",
+        "license",
+        "archive"
+    ],
+    "draft": [
+        "pass"
+    ],
+    "drain": [
+        "remove",
+        "submerge"
+    ],
+    "draw": [
+        "match",
+        "hold",
+        "win",
+        "make",
+        "put",
+        "pull",
+        "move",
+        "bring",
+        "turn",
+        "face"
+    ],
+    "drive": [
+        "run",
+        "turn",
+        "start",
+        "stop",
+        "push",
+        "walk",
+        "need",
+        "get",
+        "pull"
+    ],
+    "drop": [
+        "put",
+        "move",
+        "get"
+    ],
+    "duplicate": [
+        "delete",
+        "copy",
+        "modify",
+        "validate",
+        "correct",
+        "remove",
+        "generate"
+    ],
+    "earn": [
+        "pay",
+        "spend",
+        "receive",
+        "win",
+        "gain",
+        "lose",
+        "attain",
+        "get",
+        "deserve",
+        "achieve",
+        "garner"
+    ],
+    "ease": [
+        "allow",
+        "facilitate",
+        "improve",
+        "enhance",
+        "simplify"
+    ],
+    "eat": [
+        "want"
+    ],
+    "edit": [
+        "upload",
+        "delete",
+        "file",
+        "modify",
+        "click",
+        "link",
+        "copy",
+        "duplicate",
+        "update",
+        "submit",
+        "format",
+        "archive",
+        "add"
+    ],
+    "educate": [
+        "encourage"
+    ],
+    "effect": [
+        "affect",
+        "cause",
+        "prevent",
+        "induce"
+    ],
+    "elect": [
+        "appoint"
+    ],
+    "eliminate": [
+        "reduce",
+        "minimize",
+        "prevent",
+        "avoid",
+        "remove",
+        "allow",
+        "diminish",
+        "curtail",
+        "decrease"
+    ],
+    "email": [
+        "send",
+        "contact",
+        "request",
+        "notify",
+        "ask",
+        "link",
+        "post"
+    ],
+    "embed": [
+        "upload",
+        "enable",
+        "link",
+        "add",
+        "parse"
+    ],
+    "embrace": [
+        "bring",
+        "adopt",
+        "encourage"
+    ],
+    "emit": [
+        "generate",
+        "absorb",
+        "produce",
+        "detect",
+        "consume",
+        "ionize"
+    ],
+    "emphasize": [
+        "incorporate",
+        "reflect",
+        "encourage",
+        "describe",
+        "clarify"
+    ],
+    "employ": [
+        "utilize",
+        "operate",
+        "incorporate",
+        "intend",
+        "possess",
+        "allow",
+        "implement",
+        "devise",
+        "involve",
+        "assume"
+    ],
+    "empty": [
+        "open",
+        "put"
+    ],
+    "emulate": [
+        "imitate",
+        "adapt",
+        "resemble",
+        "exploit"
+    ],
+    "enable": [
+        "allow",
+        "facilitate",
+        "integrate",
+        "ensure",
+        "implement",
+        "utilize",
+        "disable",
+        "enhance",
+        "encourage",
+        "configure",
+        "manage",
+        "communicate",
+        "expand",
+        "connect"
+    ],
+    "enact": [
+        "repeal",
+        "impose",
+        "enforce",
+        "abolish",
+        "amend",
+        "promulgate",
+        "oppose",
+        "uphold",
+        "adopt",
+        "reform",
+        "propose"
+    ],
+    "encapsulate": [
+        "define",
+        "encompass",
+        "simplify"
+    ],
+    "enclose": [
+        "attach",
+        "delimit",
+        "denote",
+        "wrap",
+        "construct",
+        "separate"
+    ],
+    "encode": [
+        "convert",
+        "append",
+        "synthesize",
+        "specify",
+        "transmit",
+        "generate",
+        "modify"
+    ],
+    "encompass": [
+        "comprise",
+        "involve",
+        "incorporate",
+        "emphasize",
+        "characterize",
+        "define",
+        "represent",
+        "accommodate",
+        "expand"
+    ],
+    "encounter": [
+        "avoid"
+    ],
+    "encourage": [
+        "promote",
+        "educate",
+        "discourage",
+        "motivate",
+        "facilitate",
+        "allow",
+        "stimulate",
+        "help",
+        "strengthen",
+        "invite",
+        "inform"
+    ],
+    "encrypt": [
+        "delete"
+    ],
+    "end": [
+        "break",
+        "last",
+        "place",
+        "start",
+        "turn",
+        "begin"
+    ],
+    "endorse": [
+        "oppose",
+        "reject",
+        "advocate",
+        "imply",
+        "accept",
+        "declare"
+    ],
+    "enforce": [
+        "impose",
+        "violate",
+        "uphold",
+        "enact",
+        "prohibit",
+        "restrict",
+        "implement",
+        "establish",
+        "circumvent"
+    ],
+    "engage": [
+        "involve"
+    ],
+    "engineer": [
+        "design"
+    ],
+    "enhance": [
+        "improve",
+        "maximize",
+        "facilitate",
+        "promote",
+        "maintain"
+    ],
+    "enjoy": [
+        "spend",
+        "keep",
+        "experience",
+        "explore"
+    ],
+    "enlarge": [
+        "expand"
+    ],
+    "enlist": [
+        "seek"
+    ],
+    "enrol": [
+        "graduate",
+        "teach"
+    ],
+    "ensure": [
+        "assure",
+        "maintain",
+        "guarantee",
+        "achieve",
+        "allow",
+        "enable",
+        "facilitate",
+        "enhance",
+        "establish",
+        "secure",
+        "protect",
+        "improve"
+    ],
+    "entail": [
+        "impose"
+    ],
+    "enter": [
+        "leave",
+        "submit",
+        "follow",
+        "register",
+        "choose",
+        "receive",
+        "send",
+        "order",
+        "join",
+        "select"
+    ],
+    "envision": [
+        "assume"
+    ],
+    "equal": [
+        "exceed",
+        "represent",
+        "measure",
+        "achieve",
+        "limit",
+        "divide",
+        "yield"
+    ],
+    "equate": [
+        "justify"
+    ],
+    "erase": [
+        "delete",
+        "remove"
+    ],
+    "erect": [
+        "build"
+    ],
+    "escape": [
+        "flee"
+    ],
+    "espouse": [
+        "criticize",
+        "condemn",
+        "advocate",
+        "oppose"
+    ],
+    "establish": [
+        "maintain",
+        "determine",
+        "develop",
+        "facilitate",
+        "implement",
+        "initiate",
+        "assess",
+        "identify",
+        "seek",
+        "strengthen",
+        "evaluate",
+        "demonstrate",
+        "enforce",
+        "ensure"
+    ],
+    "estimate": [
+        "calculate",
+        "determine",
+        "assess",
+        "predict",
+        "measure",
+        "indicate",
+        "exceed",
+        "increase"
+    ],
+    "evacuate": [
+        "flee",
+        "expel"
+    ],
+    "evaluate": [
+        "assess",
+        "determine",
+        "examine",
+        "analyze",
+        "quantify",
+        "identify",
+        "analyse",
+        "investigate",
+        "interpret",
+        "establish",
+        "develop"
+    ],
+    "evolve": [
+        "develop"
+    ],
+    "examine": [
+        "evaluate",
+        "analyze",
+        "investigate",
+        "identify",
+        "analyse",
+        "interpret",
+        "observe",
+        "explain",
+        "uncover",
+        "explore"
+    ],
+    "exceed": [
+        "limit",
+        "surpass",
+        "equal",
+        "increase",
+        "achieve",
+        "cost",
+        "maintain",
+        "yield",
+        "estimate",
+        "decrease",
+        "reach"
+    ],
+    "exchange": [
+        "trade",
+        "share",
+        "rate",
+        "fund",
+        "credit"
+    ],
+    "exclude": [
+        "classify",
+        "distinguish",
+        "allow",
+        "ignore"
+    ],
+    "execute": [
+        "implement",
+        "invoke",
+        "assign",
+        "modify",
+        "enable",
+        "compile",
+        "specify"
+    ],
+    "exercise": [
+        "practice",
+        "lose",
+        "maintain",
+        "gain",
+        "focus"
+    ],
+    "exert": [
+        "weaken",
+        "wield"
+    ],
+    "exhibit": [
+        "show",
+        "demonstrate",
+        "display",
+        "observe",
+        "reflect",
+        "represent",
+        "produce",
+        "contribute"
+    ],
+    "exist": [
+        "represent"
+    ],
+    "exit": [
+        "enter",
+        "move",
+        "leave"
+    ],
+    "expand": [
+        "broaden",
+        "extend",
+        "widen",
+        "strengthen",
+        "continue",
+        "develop",
+        "enhance",
+        "allow",
+        "establish",
+        "integrate",
+        "encourage",
+        "enable"
+    ],
+    "expect": [
+        "consider"
+    ],
+    "expel": [
+        "displace",
+        "evacuate",
+        "assimilate"
+    ],
+    "experience": [
+        "enjoy",
+        "understand",
+        "sense",
+        "learn",
+        "expect",
+        "explore"
+    ],
+    "explain": [
+        "understand",
+        "describe",
+        "tell",
+        "suggest",
+        "know",
+        "ask"
+    ],
+    "exploit": [
+        "manipulate",
+        "expose",
+        "undermine",
+        "execute",
+        "emulate",
+        "utilize",
+        "seize"
+    ],
+    "explore": [
+        "examine",
+        "uncover",
+        "find",
+        "investigate",
+        "enjoy",
+        "discuss",
+        "develop",
+        "expand",
+        "introduce"
+    ],
+    "export": [
+        "import",
+        "trade",
+        "convert",
+        "manufacture",
+        "supply",
+        "produce",
+        "generate"
+    ],
+    "expose": [
+        "uncover",
+        "exploit",
+        "hide",
+        "protect"
+    ],
+    "express": [
+        "convey",
+        "recognize",
+        "understand",
+        "regard",
+        "respect",
+        "reflect"
+    ],
+    "extend": [
+        "expand",
+        "allow",
+        "further",
+        "continue",
+        "enable",
+        "restrict",
+        "strengthen",
+        "retain",
+        "maintain",
+        "establish",
+        "move"
+    ],
+    "extract": [
+        "paste",
+        "convert",
+        "combine",
+        "remove",
+        "blend",
+        "synthesize",
+        "produce",
+        "recover"
+    ],
+    "face": [
+        "head",
+        "look",
+        "fight",
+        "could"
+    ],
+    "facilitate": [
+        "initiate",
+        "enable",
+        "enhance",
+        "encourage",
+        "establish",
+        "ensure",
+        "allow",
+        "promote",
+        "implement",
+        "maximize",
+        "integrate"
+    ],
+    "favor": [
+        "oppose",
+        "consider",
+        "abandon",
+        "justify",
+        "prefer"
+    ],
+    "favour": [
+        "oppose"
+    ],
+    "feature": [
+        "showcase",
+        "allow",
+        "highlight",
+        "display",
+        "separate",
+        "set",
+        "incorporate",
+        "add",
+        "offer",
+        "design",
+        "access",
+        "show"
+    ],
+    "feed": [
+        "keep",
+        "get"
+    ],
+    "feel": [
+        "realize",
+        "like"
+    ],
+    "fetch": [
+        "retrieve",
+        "parse",
+        "query",
+        "execute",
+        "collect",
+        "redirect",
+        "generate"
+    ],
+    "field": [
+        "lead"
+    ],
+    "fight": [
+        "battle",
+        "defeat",
+        "survive",
+        "lose",
+        "face"
+    ],
+    "file": [
+        "delete",
+        "archive",
+        "specify",
+        "edit",
+        "parse",
+        "retrieve"
+    ],
+    "fill": [
+        "need",
+        "leave",
+        "get"
+    ],
+    "film": [
+        "feature"
+    ],
+    "finance": [
+        "pay"
+    ],
+    "find": [
+        "locate",
+        "discover",
+        "want",
+        "get",
+        "know",
+        "need",
+        "search",
+        "found",
+        "make"
+    ],
+    "finish": [
+        "start",
+        "end",
+        "win",
+        "pull",
+        "make"
+    ],
+    "fire": [
+        "attack"
+    ],
+    "fit": [
+        "wear",
+        "need",
+        "make",
+        "feel",
+        "put"
+    ],
+    "fix": [
+        "need",
+        "repair",
+        "remove",
+        "replace",
+        "resolve",
+        "solve",
+        "correct",
+        "change"
+    ],
+    "flee": [
+        "escape",
+        "evacuate",
+        "invade",
+        "survive"
+    ],
+    "flood": [
+        "protect"
+    ],
+    "fly": [
+        "down"
+    ],
+    "focus": [
+        "develop",
+        "improve",
+        "reflect",
+        "lack",
+        "continue"
+    ],
+    "fold": [
+        "wrap",
+        "hold"
+    ],
+    "follow": [
+        "continue",
+        "turn",
+        "leave",
+        "tell",
+        "enter",
+        "ask",
+        "understand",
+        "know"
+    ],
+    "forbid": [
+        "prohibit",
+        "restrict",
+        "refuse",
+        "condemn",
+        "cease",
+        "impose"
+    ],
+    "force": [
+        "push",
+        "move",
+        "attack",
+        "influence",
+        "change"
+    ],
+    "forge": [
+        "build"
+    ],
+    "forgive": [
+        "owe"
+    ],
+    "form": [
+        "present",
+        "type",
+        "shape",
+        "refer",
+        "fill",
+        "contact"
+    ],
+    "format": [
+        "convert",
+        "output",
+        "print",
+        "edit",
+        "form"
+    ],
+    "formulate": [
+        "synthesize"
+    ],
+    "foster": [
+        "encourage",
+        "adopt",
+        "promote",
+        "facilitate",
+        "establish",
+        "develop",
+        "bring",
+        "motivate",
+        "advocate"
+    ],
+    "found": [
+        "find"
+    ],
+    "frame": [
+        "set"
+    ],
+    "free": [
+        "download",
+        "make",
+        "purchase",
+        "find",
+        "buy"
+    ],
+    "fuel": [
+        "reduce",
+        "increase",
+        "boost",
+        "plant"
+    ],
+    "fulfil": [
+        "fulfill",
+        "satisfy",
+        "achieve"
+    ],
+    "fulfill": [
+        "fulfil",
+        "satisfy",
+        "pursue",
+        "undertake",
+        "meet",
+        "achieve",
+        "establish"
+    ],
+    "fund": [
+        "grant",
+        "raise",
+        "plan",
+        "aid",
+        "establish",
+        "sponsor"
+    ],
+    "further": [
+        "allow",
+        "facilitate",
+        "extend"
+    ],
+    "gain": [
+        "achieve",
+        "increase",
+        "lose",
+        "attain",
+        "regain",
+        "seek",
+        "earn",
+        "obtain",
+        "acquire",
+        "maximize"
+    ],
+    "garner": [
+        "attract",
+        "earn",
+        "gain"
+    ],
+    "gather": [
+        "collect",
+        "bring",
+        "organize",
+        "observe",
+        "seek",
+        "examine",
+        "invite"
+    ],
+    "generate": [
+        "produce",
+        "utilize",
+        "derive",
+        "output",
+        "enable",
+        "construct",
+        "analyze",
+        "contribute",
+        "increase",
+        "develop",
+        "transform"
+    ],
+    "get": [
+        "want",
+        "need",
+        "know",
+        "could",
+        "make",
+        "put",
+        "find"
+    ],
+    "give up": [
+        "enforce",
+        "carry"
+    ],
+    "glow": [
+        "heat"
+    ],
+    "go": [
+        "make",
+        "do"
+    ],
+    "govern": [
+        "dictate",
+        "regulate",
+        "establish",
+        "oversee",
+        "prohibit",
+        "interpret"
+    ],
+    "grab": [
+        "catch",
+        "push",
+        "put"
+    ],
+    "graduate": [
+        "teach",
+        "recruit",
+        "enrol"
+    ],
+    "grant": [
+        "fund",
+        "award",
+        "authorize",
+        "receive",
+        "establish",
+        "permit",
+        "seek",
+        "petition",
+        "aid",
+        "project",
+        "approve"
+    ],
+    "group": [
+        "represent",
+        "present"
+    ],
+    "grow": [
+        "make"
+    ],
+    "guarantee": [
+        "assure",
+        "ensure",
+        "offer",
+        "maintain",
+        "expect",
+        "obtain",
+        "purchase",
+        "achieve"
+    ],
+    "guide": [
+        "reference",
+        "help",
+        "complete"
+    ],
+    "halt": [
+        "stop",
+        "continue"
+    ],
+    "hand": [
+        "hold"
+    ],
+    "hand over": [
+        "carry",
+        "calculate"
+    ],
+    "handle": [
+        "need",
+        "hold",
+        "push",
+        "carry",
+        "allow",
+        "adjust",
+        "keep",
+        "manage",
+        "accommodate",
+        "load"
+    ],
+    "harass": [
+        "discourage"
+    ],
+    "harm": [
+        "prevent",
+        "damage",
+        "affect"
+    ],
+    "harness": [
+        "handle"
+    ],
+    "head": [
+        "face",
+        "chair",
+        "put",
+        "move"
+    ],
+    "hear": [
+        "remember"
+    ],
+    "heat": [
+        "microwave"
+    ],
+    "help": [
+        "need",
+        "assist",
+        "improve",
+        "make",
+        "bring",
+        "find",
+        "keep",
+        "aid",
+        "encourage",
+        "want"
+    ],
+    "hide": [
+        "conceal",
+        "ignore",
+        "want",
+        "reveal",
+        "expose",
+        "remove",
+        "protect",
+        "leave",
+        "steal"
+    ],
+    "highlight": [
+        "reflect",
+        "feature",
+        "demonstrate"
+    ],
+    "hinder": [
+        "impede",
+        "obstruct",
+        "undermine",
+        "weaken",
+        "inhibit",
+        "restrict"
+    ],
+    "hire": [
+        "recruit",
+        "employ",
+        "pay",
+        "offer",
+        "find",
+        "choose"
+    ],
+    "hit": [
+        "strike",
+        "throw",
+        "hurt",
+        "catch",
+        "get",
+        "break",
+        "put"
+    ],
+    "hold": [
+        "put",
+        "keep",
+        "pull",
+        "hand",
+        "sit",
+        "bring",
+        "need",
+        "push",
+        "make",
+        "want",
+        "move"
+    ],
+    "honor": [
+        "celebrate",
+        "award",
+        "serve"
+    ],
+    "honour": [
+        "praise"
+    ],
+    "host": [
+        "show",
+        "broadcast",
+        "present",
+        "live",
+        "attend",
+        "sponsor",
+        "invite",
+        "join",
+        "talk",
+        "meet",
+        "announce",
+        "introduce"
+    ],
+    "house": [
+        "rent",
+        "own",
+        "place",
+        "put"
+    ],
+    "identify": [
+        "determine",
+        "assess",
+        "examine",
+        "evaluate",
+        "analyze",
+        "differentiate",
+        "indicate",
+        "locate",
+        "describe",
+        "detect",
+        "investigate"
+    ],
+    "ignore": [
+        "assume",
+        "criticize"
+    ],
+    "illustrate": [
+        "describe",
+        "explain",
+        "examine",
+        "convey",
+        "reflect",
+        "represent"
+    ],
+    "imitate": [
+        "emulate"
+    ],
+    "impact": [
+        "affect",
+        "influence",
+        "increase",
+        "assess",
+        "improve",
+        "reflect"
+    ],
+    "impair": [
+        "affect"
+    ],
+    "impart": [
+        "enhance",
+        "counteract"
+    ],
+    "impede": [
+        "hinder",
+        "disrupt",
+        "weaken"
+    ],
+    "implement": [
+        "integrate",
+        "establish",
+        "enable",
+        "enforce",
+        "adopt",
+        "facilitate",
+        "develop",
+        "execute",
+        "utilize",
+        "achieve",
+        "incorporate",
+        "accomplish",
+        "enact",
+        "ensure"
+    ],
+    "imply": [
+        "indicate",
+        "conclude"
+    ],
+    "import": [
+        "export",
+        "convert",
+        "trade"
+    ],
+    "impose": [
+        "enforce",
+        "enact",
+        "restrict",
+        "prohibit",
+        "violate",
+        "abolish",
+        "uphold"
+    ],
+    "improve": [
+        "enhance",
+        "help",
+        "reduce",
+        "strengthen",
+        "optimize",
+        "increase",
+        "maximize",
+        "develop",
+        "contribute",
+        "maintain",
+        "achieve",
+        "promote",
+        "boost",
+        "ensure",
+        "assess"
+    ],
+    "incite": [
+        "discourage"
+    ],
+    "incorporate": [
+        "utilize",
+        "integrate",
+        "combine",
+        "emphasize",
+        "introduce",
+        "employ",
+        "implement",
+        "encompass",
+        "develop",
+        "adapt",
+        "reflect"
+    ],
+    "increase": [
+        "decrease",
+        "reduce",
+        "boost",
+        "lower",
+        "improve",
+        "affect",
+        "demand",
+        "raise",
+        "contribute",
+        "impact",
+        "gain",
+        "enhance",
+        "maximize"
+    ],
+    "index": [
+        "yield"
+    ],
+    "indicate": [
+        "determine",
+        "suggest",
+        "imply",
+        "identify",
+        "distinguish",
+        "reflect",
+        "represent",
+        "signify",
+        "refer",
+        "assume",
+        "confirm"
+    ],
+    "induce": [
+        "inhibit",
+        "stimulate",
+        "cause",
+        "affect"
+    ],
+    "infer": [
+        "indicate",
+        "determine"
+    ],
+    "inflate": [
+        "manipulate"
+    ],
+    "inflict": [
+        "suffer"
+    ],
+    "influence": [
+        "affect",
+        "impact",
+        "regard",
+        "contribute",
+        "force",
+        "alter",
+        "change",
+        "reflect",
+        "respect"
+    ],
+    "inform": [
+        "notify",
+        "ask",
+        "encourage",
+        "respond"
+    ],
+    "infringe": [
+        "violate",
+        "restrict",
+        "enforce",
+        "breach"
+    ],
+    "inhabit": [
+        "occupy",
+        "invade",
+        "explore"
+    ],
+    "inherit": [
+        "possess",
+        "assert",
+        "assign",
+        "usurp",
+        "confer",
+        "reclaim"
+    ],
+    "inhibit": [
+        "induce",
+        "stimulate",
+        "hinder",
+        "regulate",
+        "prevent",
+        "counteract",
+        "restrict",
+        "obstruct"
+    ],
+    "initiate": [
+        "facilitate",
+        "establish",
+        "undertake",
+        "implement",
+        "conduct",
+        "seek",
+        "communicate",
+        "terminate"
+    ],
+    "inline": [
+        "output",
+        "specify",
+        "insert",
+        "tag"
+    ],
+    "insert": [
+        "paste",
+        "delete",
+        "add",
+        "remove",
+        "select",
+        "duplicate",
+        "handle",
+        "append"
+    ],
+    "inspect": [
+        "ensure"
+    ],
+    "inspire": [
+        "unite"
+    ],
+    "instal": [
+        "install",
+        "disable",
+        "fix",
+        "delete",
+        "download",
+        "modify",
+        "upload"
+    ],
+    "install": [
+        "instal",
+        "deploy",
+        "disable",
+        "need",
+        "run",
+        "delete"
+    ],
+    "instigate": [
+        "stimulate"
+    ],
+    "institute": [
+        "establish"
+    ],
+    "instruct": [
+        "appoint"
+    ],
+    "integrate": [
+        "incorporate",
+        "enable",
+        "utilize",
+        "implement",
+        "simplify",
+        "develop",
+        "adapt",
+        "communicate",
+        "manage",
+        "facilitate",
+        "expand"
+    ],
+    "intend": [
+        "advise"
+    ],
+    "interpret": [
+        "analyze",
+        "examine",
+        "distinguish",
+        "explain",
+        "evaluate",
+        "analyse",
+        "understand",
+        "summarize",
+        "derive"
+    ],
+    "introduce": [
+        "incorporate",
+        "bring",
+        "encourage",
+        "propose",
+        "adopt",
+        "intend",
+        "expand",
+        "discuss",
+        "promote",
+        "explain",
+        "inform",
+        "allow",
+        "announce"
+    ],
+    "invade": [
+        "threaten",
+        "conquer",
+        "occupy",
+        "defend",
+        "flee",
+        "inhabit"
+    ],
+    "invalidate": [
+        "violate"
+    ],
+    "invent": [
+        "devise",
+        "adapt",
+        "explain",
+        "manipulate"
+    ],
+    "invest": [
+        "spend",
+        "acquire",
+        "devote",
+        "raise",
+        "need",
+        "expand"
+    ],
+    "investigate": [
+        "examine",
+        "assess",
+        "evaluate",
+        "identify",
+        "determine",
+        "analyze",
+        "explain",
+        "conduct",
+        "discuss",
+        "discover",
+        "suggest",
+        "establish"
+    ],
+    "invite": [
+        "encourage",
+        "join",
+        "ask",
+        "inform",
+        "send",
+        "bring",
+        "gather"
+    ],
+    "invoke": [
+        "execute",
+        "interpret",
+        "define",
+        "assign",
+        "ignore",
+        "specify"
+    ],
+    "involve": [
+        "consist",
+        "relate",
+        "encompass",
+        "facilitate",
+        "consider",
+        "avoid",
+        "engage",
+        "affect"
+    ],
+    "ionize": [
+        "emit",
+        "absorb",
+        "excite"
+    ],
+    "isolate": [
+        "synthesize"
+    ],
+    "issue": [
+        "change",
+        "lack",
+        "report"
+    ],
+    "join": [
+        "invite",
+        "attend",
+        "rejoin",
+        "meet",
+        "sponsor",
+        "bring",
+        "continue",
+        "enter",
+        "gather",
+        "follow"
+    ],
+    "journal": [
+        "publish",
+        "study"
+    ],
+    "judge": [
+        "admit"
+    ],
+    "justify": [
+        "equate",
+        "consider"
+    ],
+    "keep": [
+        "need",
+        "put",
+        "make",
+        "want",
+        "bring",
+        "get",
+        "leave",
+        "help"
+    ],
+    "kern": [
+        "transcribe"
+    ],
+    "kill": [
+        "destroy",
+        "attack",
+        "spawn",
+        "tell"
+    ],
+    "know": [
+        "tell",
+        "want",
+        "do"
+    ],
+    "label": [
+        "release",
+        "record",
+        "mix",
+        "insert"
+    ],
+    "lack": [
+        "focus",
+        "understand",
+        "affect"
+    ],
+    "land": [
+        "move"
+    ],
+    "last": [
+        "end"
+    ],
+    "launch": [
+        "announce",
+        "release",
+        "expand",
+        "begin",
+        "introduce",
+        "start",
+        "press",
+        "accelerate",
+        "run",
+        "showcase"
+    ],
+    "lay": [
+        "hold"
+    ],
+    "lay down": [
+        "enforce",
+        "calculate"
+    ],
+    "lead": [
+        "point",
+        "end",
+        "could",
+        "put",
+        "break",
+        "cause",
+        "make",
+        "win",
+        "turn",
+        "help"
+    ],
+    "learn": [
+        "teach",
+        "understand",
+        "speak",
+        "want",
+        "need",
+        "find"
+    ],
+    "lease": [
+        "sell",
+        "purchase",
+        "acquire",
+        "house"
+    ],
+    "leave": [
+        "want",
+        "keep",
+        "get",
+        "make",
+        "put",
+        "tell"
+    ],
+    "legalise": [
+        "oppose",
+        "ban"
+    ],
+    "legalize": [
+        "prohibit",
+        "regulate"
+    ],
+    "lend": [
+        "make"
+    ],
+    "lessen": [
+        "reduce",
+        "minimize"
+    ],
+    "levy": [
+        "impose",
+        "pay",
+        "abolish"
+    ],
+    "license": [
+        "permit",
+        "purchase",
+        "obtain",
+        "copy",
+        "pay",
+        "distribute",
+        "modify"
+    ],
+    "lift": [
+        "pull",
+        "push",
+        "reach",
+        "hold",
+        "move",
+        "raise",
+        "grab"
+    ],
+    "limit": [
+        "restrict",
+        "exceed",
+        "increase",
+        "reduce",
+        "allow",
+        "equal",
+        "permit",
+        "impose",
+        "affect",
+        "lower",
+        "decrease",
+        "determine"
+    ],
+    "link": [
+        "post",
+        "upload",
+        "search",
+        "email",
+        "list",
+        "submit",
+        "edit",
+        "find",
+        "access",
+        "address"
+    ],
+    "list": [
+        "page",
+        "search",
+        "check",
+        "select",
+        "find",
+        "add",
+        "click",
+        "submit",
+        "number",
+        "name",
+        "link"
+    ],
+    "live": [
+        "broadcast",
+        "enjoy",
+        "play"
+    ],
+    "load": [
+        "handle",
+        "generate",
+        "upload"
+    ],
+    "lobby": [
+        "oppose"
+    ],
+    "locate": [
+        "find",
+        "discover",
+        "identify",
+        "retrieve",
+        "verify"
+    ],
+    "lodge": [
+        "reserve",
+        "land"
+    ],
+    "longitude": [
+        "prefix"
+    ],
+    "look": [
+        "know",
+        "find",
+        "get"
+    ],
+    "look up": [
+        "enforce"
+    ],
+    "loosen": [
+        "remove"
+    ],
+    "lose": [
+        "regain",
+        "want",
+        "get",
+        "keep",
+        "gain",
+        "could",
+        "win",
+        "need",
+        "decide"
+    ],
+    "love": [
+        "like"
+    ],
+    "lower": [
+        "decrease",
+        "increase",
+        "reduce",
+        "affect",
+        "limit",
+        "raise"
+    ],
+    "maintain": [
+        "ensure",
+        "retain",
+        "establish",
+        "sustain",
+        "achieve",
+        "assure",
+        "preserve",
+        "keep",
+        "manage",
+        "improve",
+        "enhance",
+        "maximize",
+        "strengthen",
+        "operate",
+        "need"
+    ],
+    "make": [
+        "want",
+        "need",
+        "put",
+        "could",
+        "get",
+        "bring",
+        "do"
+    ],
+    "make up": [
+        "carry",
+        "condemn"
+    ],
+    "manage": [
+        "maintain",
+        "integrate",
+        "organize",
+        "develop",
+        "enable",
+        "need",
+        "help",
+        "prioritize",
+        "communicate",
+        "allow",
+        "implement"
+    ],
+    "mandate": [
+        "adopt",
+        "implement"
+    ],
+    "manipulate": [
+        "exploit",
+        "modify",
+        "interpret",
+        "alter",
+        "analyze",
+        "generate",
+        "allow",
+        "utilize",
+        "mimic"
+    ],
+    "manufacture": [
+        "produce",
+        "supply",
+        "export",
+        "sell",
+        "employ",
+        "utilize",
+        "carry",
+        "distribute"
+    ],
+    "mark": [
+        "record",
+        "last",
+        "tally",
+        "end",
+        "place",
+        "cross",
+        "commemorate",
+        "indicate",
+        "hold"
+    ],
+    "market": [
+        "sell",
+        "continue"
+    ],
+    "mask": [
+        "shield",
+        "remove"
+    ],
+    "massacre": [
+        "kill"
+    ],
+    "match": [
+        "draw",
+        "defeat",
+        "result",
+        "set",
+        "place"
+    ],
+    "maximize": [
+        "enhance",
+        "improve",
+        "reduce",
+        "maintain",
+        "facilitate",
+        "increase",
+        "enable"
+    ],
+    "mean": [
+        "say",
+        "know",
+        "understand",
+        "assume",
+        "like"
+    ],
+    "measure": [
+        "determine",
+        "assess",
+        "quantify",
+        "equal",
+        "increase",
+        "calculate",
+        "evaluate",
+        "estimate",
+        "impact",
+        "reduce",
+        "decrease",
+        "predict",
+        "indicate"
+    ],
+    "meet": [
+        "bring",
+        "fulfill",
+        "join",
+        "need",
+        "ask",
+        "ensure",
+        "invite",
+        "satisfy"
+    ],
+    "mention": [
+        "know",
+        "consider"
+    ],
+    "merge": [
+        "combine",
+        "modify"
+    ],
+    "merit": [
+        "justify"
+    ],
+    "microwave": [
+        "heat"
+    ],
+    "migrate": [
+        "manage"
+    ],
+    "mimic": [
+        "manipulate"
+    ],
+    "minimize": [
+        "reduce",
+        "eliminate",
+        "lessen",
+        "mitigate",
+        "prevent",
+        "avoid",
+        "decrease",
+        "counteract"
+    ],
+    "mirror": [
+        "display"
+    ],
+    "misrepresent": [
+        "contradict",
+        "criticize"
+    ],
+    "mistake": [
+        "explain",
+        "mention"
+    ],
+    "mitigate": [
+        "minimize",
+        "reduce",
+        "counteract",
+        "quantify",
+        "assess"
+    ],
+    "mix": [
+        "blend",
+        "combine",
+        "add",
+        "bring"
+    ],
+    "model": [
+        "design",
+        "fit",
+        "change",
+        "define",
+        "build"
+    ],
+    "moderate": [
+        "increase",
+        "maintain"
+    ],
+    "modify": [
+        "alter",
+        "assign",
+        "specify",
+        "customize",
+        "delete",
+        "revise",
+        "adjust",
+        "manipulate",
+        "override",
+        "optimize",
+        "determine",
+        "allow"
+    ],
+    "mold": [
+        "resist",
+        "remove"
+    ],
+    "monitor": [
+        "control",
+        "display",
+        "enable",
+        "determine",
+        "analyze",
+        "maintain",
+        "assess",
+        "optimize"
+    ],
+    "motivate": [
+        "encourage"
+    ],
+    "move": [
+        "push",
+        "turn",
+        "pull",
+        "change",
+        "want",
+        "go",
+        "keep",
+        "put"
+    ],
+    "name": [
+        "list",
+        "know",
+        "tell",
+        "refer"
+    ],
+    "navigate": [
+        "manage",
+        "browse",
+        "enter",
+        "retrieve"
+    ],
+    "need": [
+        "want",
+        "get",
+        "make",
+        "do",
+        "help"
+    ],
+    "neglect": [
+        "lack"
+    ],
+    "negotiate": [
+        "seek",
+        "establish",
+        "impose",
+        "enforce"
+    ],
+    "nest": [
+        "hide"
+    ],
+    "nominate": [
+        "appoint"
+    ],
+    "note": [
+        "mention",
+        "indicate",
+        "quote",
+        "post",
+        "request"
+    ],
+    "notify": [
+        "inform",
+        "send",
+        "contact"
+    ],
+    "number": [
+        "call",
+        "total",
+        "list",
+        "identify"
+    ],
+    "obey": [
+        "enforce",
+        "violate",
+        "uphold",
+        "follow"
+    ],
+    "observe": [
+        "examine",
+        "conclude",
+        "gather",
+        "recognize",
+        "regard",
+        "conduct",
+        "explain",
+        "determine"
+    ],
+    "obstruct": [
+        "hinder"
+    ],
+    "obtain": [
+        "acquire",
+        "attain",
+        "determine",
+        "receive",
+        "verify",
+        "seek",
+        "order",
+        "utilize",
+        "appropriate",
+        "possess",
+        "permit",
+        "establish",
+        "achieve",
+        "collect"
+    ],
+    "occupy": [
+        "invade",
+        "inhabit",
+        "annex",
+        "devote",
+        "encompass",
+        "divide",
+        "represent"
+    ],
+    "offer": [
+        "guarantee",
+        "choose",
+        "deliver",
+        "receive",
+        "need",
+        "sell",
+        "allow",
+        "consider",
+        "find",
+        "bring",
+        "purchase"
+    ],
+    "offset": [
+        "reduce",
+        "increase",
+        "minimize"
+    ],
+    "omit": [
+        "specify",
+        "add",
+        "modify",
+        "append"
+    ],
+    "open": [
+        "close",
+        "place",
+        "allow",
+        "access",
+        "run",
+        "enter",
+        "move",
+        "hold",
+        "end"
+    ],
+    "operate": [
+        "employ",
+        "utilize",
+        "maintain",
+        "allow",
+        "establish",
+        "enable",
+        "permit",
+        "manage",
+        "carry",
+        "expand",
+        "implement",
+        "control"
+    ],
+    "oppose": [
+        "condemn",
+        "endorse",
+        "repeal",
+        "deny",
+        "enact",
+        "approve",
+        "veto",
+        "defend",
+        "undermine"
+    ],
+    "optimize": [
+        "improve",
+        "modify"
+    ],
+    "order": [
+        "obtain",
+        "buy",
+        "need",
+        "get",
+        "allow",
+        "determine"
+    ],
+    "organise": [
+        "attend"
+    ],
+    "organize": [
+        "gather",
+        "manage",
+        "reorganize",
+        "facilitate",
+        "coordinate",
+        "consolidate",
+        "encourage"
+    ],
+    "oust": [
+        "defeat"
+    ],
+    "outlaw": [
+        "ban",
+        "prohibit",
+        "abolish",
+        "forbid",
+        "condemn",
+        "restrict"
+    ],
+    "outline": [
+        "emphasize"
+    ],
+    "output": [
+        "generate",
+        "produce",
+        "format",
+        "convert"
+    ],
+    "outsource": [
+        "consolidate"
+    ],
+    "outweigh": [
+        "counteract"
+    ],
+    "overcome": [
+        "suffer",
+        "resolve",
+        "defeat",
+        "solve"
+    ],
+    "overhaul": [
+        "reform",
+        "rebuild",
+        "oversee",
+        "implement",
+        "fix",
+        "replace"
+    ],
+    "overlook": [
+        "anticipate"
+    ],
+    "override": [
+        "specify",
+        "modify"
+    ],
+    "oversee": [
+        "supervise",
+        "establish",
+        "govern",
+        "manage",
+        "conduct",
+        "implement",
+        "authorize",
+        "facilitate",
+        "approve",
+        "organize"
+    ],
+    "overtake": [
+        "surpass"
+    ],
+    "overthrow": [
+        "depose",
+        "undermine",
+        "defeat"
+    ],
+    "overturn": [
+        "uphold",
+        "repeal",
+        "enact",
+        "abolish",
+        "impose",
+        "amend",
+        "enforce"
+    ],
+    "overwhelm": [
+        "disrupt"
+    ],
+    "owe": [
+        "pay",
+        "deserve",
+        "forgive",
+        "settle"
+    ],
+    "own": [
+        "make",
+        "put",
+        "bring",
+        "want",
+        "keep",
+        "need"
+    ],
+    "page": [
+        "list",
+        "search"
+    ],
+    "paint": [
+        "put",
+        "light",
+        "make"
+    ],
+    "parallel": [
+        "cross",
+        "approach"
+    ],
+    "parse": [
+        "specify",
+        "retrieve",
+        "interpret",
+        "redirect"
+    ],
+    "pass": [
+        "get",
+        "complete",
+        "run",
+        "make"
+    ],
+    "pass over": [
+        "document"
+    ],
+    "paste": [
+        "add",
+        "extract",
+        "insert",
+        "remove",
+        "copy"
+    ],
+    "pay": [
+        "afford",
+        "owe",
+        "cost",
+        "spend",
+        "charge",
+        "earn",
+        "get",
+        "receive",
+        "purchase"
+    ],
+    "penalize": [
+        "restrict",
+        "exclude"
+    ],
+    "perceive": [
+        "distinguish",
+        "recognize",
+        "recognise",
+        "acknowledge"
+    ],
+    "perfect": [
+        "make"
+    ],
+    "perform": [
+        "conduct",
+        "undergo",
+        "undertake",
+        "accomplish",
+        "demonstrate",
+        "utilize",
+        "determine",
+        "do",
+        "operate",
+        "manage"
+    ],
+    "permit": [
+        "allow",
+        "prohibit",
+        "restrict",
+        "authorize",
+        "license",
+        "obtain",
+        "enforce",
+        "establish",
+        "facilitate",
+        "apply",
+        "determine"
+    ],
+    "petition": [
+        "grant"
+    ],
+    "pillage": [
+        "flee"
+    ],
+    "pioneer": [
+        "research",
+        "popularize",
+        "outlaw"
+    ],
+    "place": [
+        "put",
+        "end",
+        "make",
+        "come",
+        "go",
+        "leave",
+        "close"
+    ],
+    "plan": [
+        "propose",
+        "consider",
+        "begin",
+        "fund"
+    ],
+    "plant": [
+        "supply",
+        "fuel"
+    ],
+    "play": [
+        "win",
+        "make",
+        "move",
+        "live",
+        "beat",
+        "lead",
+        "start"
+    ],
+    "please": [
+        "ask",
+        "tell",
+        "call",
+        "help"
+    ],
+    "populate": [
+        "retrieve",
+        "parse"
+    ],
+    "portray": [
+        "describe",
+        "convince",
+        "represent"
+    ],
+    "pose": [
+        "face",
+        "cause",
+        "expose",
+        "prove"
+    ],
+    "position": [
+        "move",
+        "place"
+    ],
+    "possess": [
+        "obtain",
+        "acquire",
+        "utilize",
+        "employ",
+        "retain",
+        "perceive"
+    ],
+    "post": [
+        "link",
+        "read",
+        "mention",
+        "write",
+        "note",
+        "email"
+    ],
+    "power": [
+        "control",
+        "operate"
+    ],
+    "practice": [
+        "teach",
+        "learn",
+        "conduct",
+        "study",
+        "involve",
+        "experience",
+        "exercise"
+    ],
+    "practise": [
+        "learn",
+        "conduct",
+        "observe"
+    ],
+    "praise": [
+        "honour",
+        "worship",
+        "criticize"
+    ],
+    "precede": [
+        "signify",
+        "indicate",
+        "begin",
+        "infer"
+    ],
+    "precipitate": [
+        "aggravate"
+    ],
+    "predict": [
+        "assess",
+        "determine",
+        "expect",
+        "analyze",
+        "explain",
+        "calculate",
+        "indicate",
+        "affect"
+    ],
+    "prefer": [
+        "consider",
+        "choose",
+        "suggest",
+        "do",
+        "appreciate"
+    ],
+    "prefix": [
+        "command",
+        "assign"
+    ],
+    "prepare": [
+        "make",
+        "serve"
+    ],
+    "present": [
+        "regard",
+        "represent",
+        "describe",
+        "demonstrate",
+        "appropriate"
+    ],
+    "preserve": [
+        "conserve",
+        "maintain",
+        "restore",
+        "protect",
+        "retain",
+        "enhance",
+        "establish",
+        "ensure",
+        "regain"
+    ],
+    "press": [
+        "push",
+        "hold",
+        "click",
+        "launch",
+        "publish",
+        "put",
+        "turn",
+        "print"
+    ],
+    "pressure": [
+        "prevent"
+    ],
+    "prevent": [
+        "avoid",
+        "eliminate",
+        "protect",
+        "reduce",
+        "minimize",
+        "cause",
+        "harm",
+        "allow",
+        "discourage",
+        "remove",
+        "ensure"
+    ],
+    "print": [
+        "copy",
+        "format",
+        "publish",
+        "display",
+        "press"
+    ],
+    "prioritize": [
+        "manage",
+        "implement"
+    ],
+    "probe": [
+        "claim",
+        "trace"
+    ],
+    "process": [
+        "result",
+        "involve",
+        "begin",
+        "change",
+        "start"
+    ],
+    "proclaim": [
+        "declare"
+    ],
+    "produce": [
+        "generate",
+        "develop",
+        "deliver",
+        "manufacture",
+        "make",
+        "yield",
+        "achieve",
+        "result",
+        "contribute",
+        "bring",
+        "consume",
+        "demand",
+        "obtain"
+    ],
+    "program": [
+        "develop",
+        "study"
+    ],
+    "prohibit": [
+        "restrict",
+        "authorize",
+        "permit",
+        "forbid",
+        "discourage",
+        "enforce",
+        "impose",
+        "violate",
+        "ban",
+        "regulate"
+    ],
+    "project": [
+        "build",
+        "grant",
+        "construct",
+        "approach"
+    ],
+    "prolong": [
+        "reduce"
+    ],
+    "promise": [
+        "bring"
+    ],
+    "promote": [
+        "encourage",
+        "enhance",
+        "strengthen",
+        "stimulate",
+        "facilitate",
+        "improve",
+        "develop",
+        "establish",
+        "maintain",
+        "expand",
+        "introduce"
+    ],
+    "prompt": [
+        "execute",
+        "initiate",
+        "enable",
+        "send",
+        "notify"
+    ],
+    "promulgate": [
+        "enact",
+        "amend",
+        "enforce",
+        "impose"
+    ],
+    "pronounce": [
+        "sentence"
+    ],
+    "propagate": [
+        "disseminate"
+    ],
+    "propel": [
+        "surpass"
+    ],
+    "propose": [
+        "intend",
+        "introduce",
+        "adopt",
+        "consider",
+        "enact",
+        "suggest",
+        "decide",
+        "impose",
+        "examine",
+        "devise",
+        "establish",
+        "regard",
+        "approve"
+    ],
+    "prosecute": [
+        "accuse"
+    ],
+    "protect": [
+        "prevent",
+        "preserve",
+        "defend",
+        "ensure",
+        "keep",
+        "destroy",
+        "maintain",
+        "allow",
+        "threaten",
+        "secure",
+        "restore",
+        "eliminate",
+        "help"
+    ],
+    "prove": [
+        "explain",
+        "demonstrate",
+        "deny"
+    ],
+    "publish": [
+        "submit",
+        "write",
+        "disseminate",
+        "copy",
+        "intend",
+        "revise",
+        "reprint",
+        "distribute",
+        "upload",
+        "inform",
+        "document",
+        "article",
+        "read",
+        "disclose"
+    ],
+    "pull": [
+        "push",
+        "move",
+        "let",
+        "turn",
+        "hold",
+        "keep",
+        "throw"
+    ],
+    "purchase": [
+        "buy",
+        "sell",
+        "cost",
+        "pay",
+        "receive",
+        "obtain",
+        "acquire",
+        "offer",
+        "guarantee",
+        "lease",
+        "get"
+    ],
+    "pursue": [
+        "undertake",
+        "fulfill",
+        "continue",
+        "establish",
+        "achieve",
+        "attain"
+    ],
+    "push": [
+        "pull",
+        "move",
+        "grab",
+        "hold",
+        "put",
+        "allow",
+        "keep",
+        "bring",
+        "force"
+    ],
+    "push up": [
+        "hit",
+        "carry"
+    ],
+    "put": [
+        "make",
+        "get",
+        "keep",
+        "want",
+        "bring",
+        "need"
+    ],
+    "quantify": [
+        "evaluate",
+        "determine",
+        "mitigate"
+    ],
+    "quell": [
+        "suppress"
+    ],
+    "query": [
+        "search",
+        "retrieve",
+        "delete",
+        "request",
+        "define"
+    ],
+    "quit": [
+        "leave",
+        "keep"
+    ],
+    "quote": [
+        "note",
+        "ask",
+        "read",
+        "mention",
+        "post",
+        "write"
+    ],
+    "raid": [
+        "destroy",
+        "damage"
+    ],
+    "raise": [
+        "increase",
+        "donate",
+        "bring",
+        "fund",
+        "contribute",
+        "hold",
+        "encourage",
+        "pay",
+        "make",
+        "invest",
+        "put"
+    ],
+    "rank": [
+        "count",
+        "equal",
+        "list",
+        "attain",
+        "top",
+        "gain"
+    ],
+    "ratify": [
+        "amend",
+        "approve",
+        "repeal",
+        "oppose",
+        "overturn",
+        "reject"
+    ],
+    "reach": [
+        "close",
+        "achieve",
+        "turn",
+        "continue",
+        "bring",
+        "attain",
+        "get",
+        "point"
+    ],
+    "read": [
+        "write",
+        "article",
+        "tell",
+        "post",
+        "know",
+        "remember",
+        "understand",
+        "copy"
+    ],
+    "realize": [
+        "understand",
+        "recognize"
+    ],
+    "reassert": [
+        "relinquish",
+        "cede",
+        "assert",
+        "regain",
+        "undermine",
+        "exert"
+    ],
+    "rebuild": [
+        "build",
+        "replace",
+        "overhaul",
+        "reconstruct",
+        "revive",
+        "fix",
+        "reorganize"
+    ],
+    "recapture": [
+        "capture"
+    ],
+    "receive": [
+        "send",
+        "obtain",
+        "pay",
+        "submit",
+        "offer",
+        "accept",
+        "earn",
+        "request",
+        "get",
+        "enter",
+        "purchase",
+        "order"
+    ],
+    "reclaim": [
+        "recover"
+    ],
+    "recognise": [
+        "recognize",
+        "perceive",
+        "understand",
+        "identify",
+        "assume",
+        "demonstrate"
+    ],
+    "recognize": [
+        "recognise",
+        "understand",
+        "realize",
+        "assume",
+        "distinguish",
+        "perceive",
+        "explain",
+        "know",
+        "consider"
+    ],
+    "recommend": [
+        "consider",
+        "suggest",
+        "need",
+        "find"
+    ],
+    "reconstruct": [
+        "construct",
+        "rebuild",
+        "preserve"
+    ],
+    "record": [
+        "track",
+        "last",
+        "mark",
+        "label",
+        "put",
+        "win",
+        "own"
+    ],
+    "recount": [
+        "examine"
+    ],
+    "recover": [
+        "regain",
+        "retrieve",
+        "reclaim",
+        "lose",
+        "manage",
+        "suffer",
+        "save",
+        "seek",
+        "overcome"
+    ],
+    "recruit": [
+        "join",
+        "hire",
+        "attract",
+        "graduate",
+        "mobilize"
+    ],
+    "redefine": [
+        "define"
+    ],
+    "redirect": [
+        "delete",
+        "parse",
+        "modify",
+        "retrieve",
+        "link"
+    ],
+    "redistribute": [
+        "distribute",
+        "modify",
+        "infringe"
+    ],
+    "reduce": [
+        "minimize",
+        "eliminate",
+        "decrease",
+        "lessen",
+        "increase",
+        "prevent",
+        "alleviate",
+        "mitigate",
+        "improve",
+        "avoid",
+        "maximize",
+        "diminish",
+        "enhance",
+        "lower",
+        "contribute"
+    ],
+    "reestablish": [
+        "establish"
+    ],
+    "refer": [
+        "describe",
+        "indicate"
+    ],
+    "reference": [
+        "guide",
+        "indicate",
+        "describe",
+        "correct",
+        "present"
+    ],
+    "refine": [
+        "revise",
+        "modify",
+        "improve",
+        "search"
+    ],
+    "reflect": [
+        "emphasize",
+        "represent",
+        "change",
+        "indicate",
+        "convey",
+        "examine",
+        "contribute",
+        "focus",
+        "affect",
+        "demonstrate",
+        "incorporate",
+        "illustrate",
+        "describe",
+        "interpret"
+    ],
+    "reform": [
+        "repeal",
+        "overhaul",
+        "enact",
+        "undermine",
+        "abolish",
+        "impose",
+        "state",
+        "implement"
+    ],
+    "refuse": [
+        "reject",
+        "accept",
+        "forbid",
+        "admit",
+        "cease"
+    ],
+    "regain": [
+        "lose",
+        "recover",
+        "restore",
+        "retain",
+        "maintain",
+        "gain",
+        "relinquish",
+        "attain",
+        "reassert"
+    ],
+    "regard": [
+        "concern",
+        "consider",
+        "assume",
+        "understand"
+    ],
+    "register": [
+        "enter",
+        "notify",
+        "receive",
+        "submit",
+        "send",
+        "request",
+        "click"
+    ],
+    "regulate": [
+        "govern",
+        "restrict",
+        "prohibit",
+        "inhibit",
+        "enforce",
+        "impose",
+        "affect",
+        "maintain"
+    ],
+    "reinforce": [
+        "strengthen",
+        "encourage"
+    ],
+    "reinstate": [
+        "suspend"
+    ],
+    "reintroduce": [
+        "introduce",
+        "enact"
+    ],
+    "reject": [
+        "deny",
+        "refuse",
+        "accept",
+        "dismiss",
+        "approve",
+        "abandon",
+        "assert",
+        "endorse"
+    ],
+    "rejoin": [
+        "join"
+    ],
+    "relate": [
+        "involve"
+    ],
+    "release": [
+        "announce",
+        "launch",
+        "update",
+        "label",
+        "issue",
+        "present",
+        "report",
+        "publish"
+    ],
+    "reliable": [
+        "supply",
+        "locate",
+        "need"
+    ],
+    "relieve": [
+        "reduce"
+    ],
+    "relinquish": [
+        "cede",
+        "renounce",
+        "seize",
+        "reassert",
+        "regain",
+        "deny",
+        "retain"
+    ],
+    "remove": [
+        "delete",
+        "eliminate",
+        "prevent",
+        "replace",
+        "allow",
+        "fix",
+        "modify",
+        "add",
+        "disable",
+        "loosen",
+        "avoid",
+        "erase",
+        "reduce"
+    ],
+    "renaming": [
+        "edit"
+    ],
+    "render": [
+        "modify",
+        "assign",
+        "manipulate",
+        "alter",
+        "enable",
+        "invoke",
+        "compose",
+        "make",
+        "interpret"
+    ],
+    "renounce": [
+        "relinquish",
+        "reject",
+        "deny",
+        "cede",
+        "revoke"
+    ],
+    "rent": [
+        "house",
+        "sell",
+        "cost",
+        "afford",
+        "buy",
+        "purchase"
+    ],
+    "reorganise": [
+        "reorganize",
+        "consolidate"
+    ],
+    "reorganize": [
+        "reorganise",
+        "consolidate",
+        "organize",
+        "unify",
+        "simplify"
+    ],
+    "repair": [
+        "fix",
+        "replace",
+        "recover",
+        "need"
+    ],
+    "repeal": [
+        "enact",
+        "amend",
+        "abolish",
+        "overturn",
+        "reform",
+        "oppose",
+        "impose",
+        "ban",
+        "enforce"
+    ],
+    "repeat": [
+        "count",
+        "remember",
+        "follow",
+        "mistake",
+        "do",
+        "begin"
+    ],
+    "repel": [
+        "resist",
+        "discourage"
+    ],
+    "replace": [
+        "remove",
+        "fix",
+        "rebuild",
+        "put",
+        "restore",
+        "need",
+        "fill",
+        "change",
+        "add",
+        "eliminate"
+    ],
+    "report": [
+        "study",
+        "document",
+        "examine",
+        "issue",
+        "indicate",
+        "investigate",
+        "assess",
+        "estimate",
+        "concern"
+    ],
+    "represent": [
+        "reflect",
+        "constitute",
+        "indicate",
+        "exist",
+        "define",
+        "distinguish",
+        "identify",
+        "imply",
+        "describe",
+        "recognize",
+        "demonstrate",
+        "signify",
+        "denote"
+    ],
+    "reprint": [
+        "publish"
+    ],
+    "reproduce": [
+        "modify",
+        "produce",
+        "distribute"
+    ],
+    "request": [
+        "submit",
+        "send",
+        "specify",
+        "address",
+        "receive",
+        "appropriate",
+        "email",
+        "approve"
+    ],
+    "research": [
+        "examine",
+        "develop"
+    ],
+    "resemble": [
+        "depict",
+        "shape",
+        "like",
+        "emulate",
+        "describe",
+        "simulate"
+    ],
+    "reserve": [
+        "preserve",
+        "transfer",
+        "leave",
+        "waive",
+        "lodge",
+        "return"
+    ],
+    "resign": [
+        "appoint"
+    ],
+    "resist": [
+        "avoid",
+        "repel",
+        "ignore",
+        "fear"
+    ],
+    "resolve": [
+        "solve",
+        "overcome",
+        "settle",
+        "establish",
+        "alleviate",
+        "fix",
+        "recognize"
+    ],
+    "respect": [
+        "agree"
+    ],
+    "respond": [
+        "inform",
+        "ask"
+    ],
+    "restore": [
+        "regain",
+        "preserve",
+        "maintain",
+        "protect",
+        "remove",
+        "replace"
+    ],
+    "restrain": [
+        "provoke"
+    ],
+    "restrict": [
+        "prohibit",
+        "allow",
+        "impose",
+        "regulate",
+        "enforce",
+        "permit",
+        "limit",
+        "forbid",
+        "hinder"
+    ],
+    "result": [
+        "indicate",
+        "affect",
+        "determine",
+        "increase",
+        "avoid"
+    ],
+    "resume": [
+        "begin",
+        "start",
+        "write"
+    ],
+    "retain": [
+        "maintain",
+        "preserve",
+        "regain",
+        "ensure",
+        "possess",
+        "extend",
+        "allow",
+        "lose",
+        "absorb",
+        "acquire",
+        "establish",
+        "hold",
+        "utilize",
+        "assure",
+        "enhance"
+    ],
+    "retrieve": [
+        "fetch",
+        "locate",
+        "recover",
+        "collect",
+        "delete",
+        "query",
+        "assign",
+        "manipulate",
+        "parse",
+        "identify",
+        "file"
+    ],
+    "return": [
+        "leave",
+        "end",
+        "result",
+        "forward",
+        "enter",
+        "order",
+        "get"
+    ],
+    "reunite": [
+        "join"
+    ],
+    "reuse": [
+        "conserve",
+        "minimize",
+        "modify",
+        "simplify",
+        "incorporate",
+        "utilize",
+        "reduce",
+        "preserve"
+    ],
+    "reveal": [
+        "appear",
+        "discover",
+        "suggest",
+        "indicate",
+        "conceal",
+        "hide",
+        "identify",
+        "demonstrate"
+    ],
+    "reverse": [
+        "prevent",
+        "change"
+    ],
+    "review": [
+        "submit",
+        "read",
+        "article",
+        "check",
+        "suggest",
+        "list",
+        "compare",
+        "examine"
+    ],
+    "revise": [
+        "amend",
+        "modify",
+        "enact",
+        "publish",
+        "approve",
+        "impose"
+    ],
+    "revive": [
+        "rebuild",
+        "preserve"
+    ],
+    "revoke": [
+        "authorize",
+        "waive",
+        "enforce",
+        "deny"
+    ],
+    "rewrite": [
+        "write",
+        "modify",
+        "delete",
+        "duplicate"
+    ],
+    "rid": [
+        "keep"
+    ],
+    "roll": [
+        "move",
+        "turn",
+        "hold",
+        "put"
+    ],
+    "route": [
+        "follow"
+    ],
+    "rule": [
+        "state",
+        "establish"
+    ],
+    "run": [
+        "start",
+        "go",
+        "put",
+        "walk",
+        "get",
+        "drive",
+        "break"
+    ],
+    "run down": [
+        "enforce",
+        "calculate"
+    ],
+    "satisfy": [
+        "fulfill",
+        "fulfil",
+        "meet",
+        "maintain",
+        "appropriate"
+    ],
+    "save": [
+        "go",
+        "get",
+        "help",
+        "spend",
+        "want",
+        "make",
+        "find",
+        "need",
+        "order",
+        "put",
+        "choose"
+    ],
+    "say": [
+        "tell",
+        "mean",
+        "understand"
+    ],
+    "scan": [
+        "upload",
+        "retrieve"
+    ],
+    "score": [
+        "win",
+        "tally",
+        "earn"
+    ],
+    "scrape": [
+        "remove",
+        "crawl"
+    ],
+    "search": [
+        "find",
+        "browse",
+        "query",
+        "list",
+        "page",
+        "link",
+        "refine",
+        "submit",
+        "choose"
+    ],
+    "secure": [
+        "access",
+        "ensure",
+        "maintain",
+        "allow",
+        "protect",
+        "enable",
+        "facilitate",
+        "manage",
+        "place",
+        "hold",
+        "establish"
+    ],
+    "seek": [
+        "continue",
+        "establish",
+        "encourage",
+        "bring",
+        "consider",
+        "obtain",
+        "need",
+        "want",
+        "deny"
+    ],
+    "seize": [
+        "relinquish",
+        "seek",
+        "cede"
+    ],
+    "select": [
+        "choose",
+        "click",
+        "specify",
+        "assign",
+        "list",
+        "enter",
+        "enable",
+        "determine",
+        "delete",
+        "modify"
+    ],
+    "sell": [
+        "buy",
+        "purchase",
+        "market",
+        "want",
+        "advertise",
+        "pay",
+        "offer",
+        "get",
+        "find",
+        "acquire",
+        "make",
+        "store"
+    ],
+    "send": [
+        "email",
+        "ask",
+        "receive",
+        "request",
+        "submit",
+        "invite",
+        "call",
+        "want",
+        "get",
+        "tell"
+    ],
+    "sentence": [
+        "pronounce"
+    ],
+    "separate": [
+        "split",
+        "allow",
+        "comprise",
+        "set",
+        "access"
+    ],
+    "serve": [
+        "bring",
+        "make",
+        "prepare",
+        "allow",
+        "establish",
+        "fulfill",
+        "assist",
+        "place",
+        "seek",
+        "encourage",
+        "need",
+        "represent"
+    ],
+    "service": [
+        "ensure",
+        "serve",
+        "receive"
+    ],
+    "set": [
+        "put",
+        "be",
+        "make",
+        "place",
+        "separate",
+        "end",
+        "hold"
+    ],
+    "set out": [
+        "enforce"
+    ],
+    "set up": [
+        "document",
+        "reestablish"
+    ],
+    "settle": [
+        "resolve",
+        "leave",
+        "move",
+        "pay"
+    ],
+    "shape": [
+        "resemble",
+        "form",
+        "make",
+        "change",
+        "face"
+    ],
+    "share": [
+        "own",
+        "want",
+        "bring",
+        "enjoy",
+        "exchange",
+        "make",
+        "contribute"
+    ],
+    "shed": [
+        "hide"
+    ],
+    "shield": [
+        "mask"
+    ],
+    "shift": [
+        "change",
+        "push",
+        "turn",
+        "force",
+        "signal"
+    ],
+    "ship": [
+        "transport",
+        "leave",
+        "launch"
+    ],
+    "shortcut": [
+        "modify"
+    ],
+    "shorten": [
+        "reduce"
+    ],
+    "show": [
+        "exhibit",
+        "tell",
+        "talk"
+    ],
+    "showcase": [
+        "feature",
+        "bring",
+        "celebrate",
+        "introduce",
+        "promote"
+    ],
+    "shut down": [
+        "carry",
+        "calculate"
+    ],
+    "sign": [
+        "enter",
+        "get",
+        "send"
+    ],
+    "signal": [
+        "transmit",
+        "indicate",
+        "control",
+        "shift",
+        "determine"
+    ],
+    "signify": [
+        "denote",
+        "precede",
+        "indicate",
+        "represent",
+        "reflect"
+    ],
+    "simplify": [
+        "automate",
+        "integrate",
+        "facilitate",
+        "maximize",
+        "implement",
+        "enable",
+        "clarify",
+        "incorporate",
+        "ease",
+        "unify"
+    ],
+    "simulate": [
+        "detect",
+        "resemble",
+        "utilize",
+        "calculate"
+    ],
+    "single": [
+        "double"
+    ],
+    "sit": [
+        "leave",
+        "hold",
+        "want",
+        "keep"
+    ],
+    "sketch": [
+        "draw",
+        "show",
+        "paint",
+        "print"
+    ],
+    "skip": [
+        "start"
+    ],
+    "slow": [
+        "accelerate",
+        "stop"
+    ],
+    "slow down": [
+        "sustain"
+    ],
+    "solve": [
+        "resolve",
+        "answer",
+        "overcome",
+        "understand",
+        "fix"
+    ],
+    "sound": [
+        "voice"
+    ],
+    "source": [
+        "generate",
+        "produce",
+        "stream"
+    ],
+    "span": [
+        "extend",
+        "encompass",
+        "exceed",
+        "average",
+        "reach",
+        "indicate"
+    ],
+    "spare": [
+        "spend",
+        "devote"
+    ],
+    "spark": [
+        "inspire",
+        "provoke",
+        "trigger"
+    ],
+    "spawn": [
+        "kill"
+    ],
+    "speak": [
+        "tell",
+        "understand",
+        "learn",
+        "know",
+        "teach"
+    ],
+    "specify": [
+        "assign",
+        "define",
+        "modify",
+        "attribute",
+        "select",
+        "determine",
+        "override",
+        "choose",
+        "indicate",
+        "request",
+        "refer",
+        "correct"
+    ],
+    "speed up": [
+        "document",
+        "carry"
+    ],
+    "spell": [
+        "mean"
+    ],
+    "spend": [
+        "pay",
+        "invest",
+        "devote",
+        "get",
+        "enjoy",
+        "realize",
+        "consider",
+        "need"
+    ],
+    "split": [
+        "separate",
+        "divide",
+        "cut"
+    ],
+    "sponsor": [
+        "join",
+        "announce",
+        "promote",
+        "fund",
+        "endorse",
+        "receive",
+        "grant"
+    ],
+    "sport": [
+        "watch"
+    ],
+    "spread": [
+        "put",
+        "bring"
+    ],
+    "spur": [
+        "stimulate",
+        "accelerate",
+        "encourage"
+    ],
+    "stack": [
+        "roll",
+        "drop"
+    ],
+    "stand": [
+        "make"
+    ],
+    "start": [
+        "begin",
+        "stop",
+        "get",
+        "continue",
+        "run",
+        "keep",
+        "end",
+        "make",
+        "need",
+        "want",
+        "break"
+    ],
+    "state": [
+        "rule",
+        "reform",
+        "establish"
+    ],
+    "stimulate": [
+        "induce",
+        "encourage",
+        "inhibit",
+        "strengthen",
+        "promote",
+        "facilitate",
+        "accelerate"
+    ],
+    "stop": [
+        "start",
+        "continue",
+        "avoid",
+        "prevent"
+    ],
+    "store": [
+        "buy",
+        "sell",
+        "find",
+        "check",
+        "place",
+        "empty",
+        "supply"
+    ],
+    "storm": [
+        "attack"
+    ],
+    "stream": [
+        "source",
+        "watch",
+        "transmit",
+        "generate"
+    ],
+    "strengthen": [
+        "reinforce",
+        "improve",
+        "promote",
+        "encourage",
+        "expand",
+        "establish",
+        "stimulate",
+        "develop",
+        "maintain"
+    ],
+    "stretch": [
+        "extend"
+    ],
+    "strike": [
+        "attack",
+        "hit",
+        "move"
+    ],
+    "study": [
+        "assess",
+        "report",
+        "evaluate",
+        "suggest",
+        "practice",
+        "demonstrate",
+        "explain",
+        "journal",
+        "investigate"
+    ],
+    "submerge": [
+        "drain",
+        "devastate"
+    ],
+    "submit": [
+        "request",
+        "publish",
+        "send",
+        "receive",
+        "enter",
+        "upload",
+        "check",
+        "obtain",
+        "accept",
+        "approve"
+    ],
+    "substitute": [
+        "obtain"
+    ],
+    "subvert": [
+        "disrupt"
+    ],
+    "succeed": [
+        "convince",
+        "survive"
+    ],
+    "sue": [
+        "allege"
+    ],
+    "suffer": [
+        "cause",
+        "overcome",
+        "survive",
+        "inflict",
+        "avoid"
+    ],
+    "suggest": [
+        "explain",
+        "consider",
+        "indicate",
+        "recommend",
+        "could"
+    ],
+    "summarize": [
+        "analyze",
+        "examine",
+        "interpret",
+        "explain",
+        "analyse",
+        "describe",
+        "synthesize",
+        "classify"
+    ],
+    "supervise": [
+        "oversee",
+        "appoint",
+        "conduct",
+        "organize",
+        "maintain",
+        "initiate",
+        "advise"
+    ],
+    "supplement": [
+        "increase",
+        "stimulate"
+    ],
+    "supply": [
+        "manufacture",
+        "maintain",
+        "produce",
+        "need",
+        "deliver"
+    ],
+    "suppress": [
+        "quell",
+        "eliminate"
+    ],
+    "surpass": [
+        "overtake",
+        "exceed",
+        "reach",
+        "boast",
+        "achieve",
+        "diminish",
+        "propel"
+    ],
+    "surrender": [
+        "accept",
+        "force",
+        "cede",
+        "flee"
+    ],
+    "surround": [
+        "enclose",
+        "separate",
+        "capture",
+        "connect",
+        "incorporate"
+    ],
+    "survey": [
+        "determine"
+    ],
+    "survive": [
+        "suffer",
+        "lose",
+        "fight",
+        "succeed"
+    ],
+    "suspend": [
+        "reinstate",
+        "impose",
+        "enforce"
+    ],
+    "sustain": [
+        "maintain",
+        "achieve",
+        "contribute",
+        "cultivate",
+        "establish"
+    ],
+    "swam": [
+        "swim"
+    ],
+    "sway": [
+        "influence"
+    ],
+    "sweep": [
+        "win",
+        "push",
+        "move"
+    ],
+    "swim": [
+        "swam",
+        "jump"
+    ],
+    "switch": [
+        "control",
+        "turn",
+        "move",
+        "change",
+        "connect"
+    ],
+    "symbolize": [
+        "represent",
+        "reflect"
+    ],
+    "synthesize": [
+        "formulate",
+        "summarize",
+        "analyse",
+        "disseminate",
+        "interpret"
+    ],
+    "tag": [
+        "attribute",
+        "duplicate",
+        "add",
+        "match",
+        "insert"
+    ],
+    "take on": [
+        "document"
+    ],
+    "take over": [
+        "sustain",
+        "carry",
+        "calculate"
+    ],
+    "take up": [
+        "carry"
+    ],
+    "talk": [
+        "discuss"
+    ],
+    "tally": [
+        "score",
+        "win",
+        "mark"
+    ],
+    "target": [
+        "identify",
+        "attack",
+        "increase",
+        "reach",
+        "detect",
+        "move"
+    ],
+    "teach": [
+        "learn",
+        "understand",
+        "speak",
+        "explain",
+        "encourage",
+        "practice",
+        "bring",
+        "demonstrate"
+    ],
+    "tell": [
+        "know",
+        "ask",
+        "say",
+        "think",
+        "explain"
+    ],
+    "terminate": [
+        "cancel",
+        "initiate"
+    ],
+    "test": [
+        "determine",
+        "evaluate",
+        "confirm"
+    ],
+    "threaten": [
+        "invade"
+    ],
+    "throw": [
+        "pull",
+        "catch",
+        "put",
+        "make",
+        "get",
+        "hit"
+    ],
+    "tie": [
+        "hold",
+        "win"
+    ],
+    "total": [
+        "average",
+        "number",
+        "complete",
+        "exceed"
+    ],
+    "touch": [
+        "bring",
+        "display"
+    ],
+    "trace": [
+        "derive",
+        "distinguish",
+        "reveal"
+    ],
+    "track": [
+        "record",
+        "run",
+        "keep",
+        "end",
+        "slow"
+    ],
+    "trade": [
+        "exchange",
+        "sell",
+        "export",
+        "import",
+        "supply"
+    ],
+    "train": [
+        "reach",
+        "move",
+        "hire"
+    ],
+    "transclude": [
+        "disambiguate",
+        "categorize",
+        "reorganize"
+    ],
+    "transcribe": [
+        "interpret",
+        "analyze"
+    ],
+    "transfer": [
+        "direct",
+        "process",
+        "allow",
+        "charge",
+        "secure",
+        "facilitate",
+        "permit",
+        "access",
+        "request"
+    ],
+    "transform": [
+        "integrate",
+        "generate",
+        "construct",
+        "enhance",
+        "manipulate",
+        "convert",
+        "enable"
+    ],
+    "translate": [
+        "understand",
+        "convey",
+        "adapt",
+        "learn",
+        "describe"
+    ],
+    "transmit": [
+        "signal",
+        "communicate",
+        "disseminate",
+        "receive",
+        "generate",
+        "enable"
+    ],
+    "transport": [
+        "carry"
+    ],
+    "travel": [
+        "go",
+        "reach"
+    ],
+    "traverse": [
+        "explore",
+        "reach",
+        "cross",
+        "divide"
+    ],
+    "treat": [
+        "cause",
+        "bring",
+        "prevent",
+        "want",
+        "make"
+    ],
+    "trend": [
+        "suggest",
+        "mean"
+    ],
+    "trigger": [
+        "cause",
+        "prevent",
+        "control",
+        "induce",
+        "handle"
+    ],
+    "truncate": [
+        "rewrite"
+    ],
+    "try": [
+        "make"
+    ],
+    "turn": [
+        "make",
+        "move",
+        "pull",
+        "put",
+        "get"
+    ],
+    "turn over": [
+        "hit",
+        "index"
+    ],
+    "type": [
+        "form",
+        "specify",
+        "describe",
+        "name",
+        "change",
+        "define"
+    ],
+    "uncover": [
+        "examine",
+        "identify",
+        "find",
+        "explore",
+        "expose",
+        "analyze"
+    ],
+    "undercut": [
+        "weaken",
+        "curtail"
+    ],
+    "underestimate": [
+        "ignore",
+        "understand"
+    ],
+    "undergo": [
+        "suffer",
+        "perform",
+        "initiate",
+        "involve",
+        "induce",
+        "conduct"
+    ],
+    "undermine": [
+        "diminish",
+        "hinder"
+    ],
+    "understand": [
+        "explain",
+        "realize",
+        "learn",
+        "say",
+        "want",
+        "need",
+        "recognize"
+    ],
+    "undertake": [
+        "conduct",
+        "pursue",
+        "initiate",
+        "fulfill"
+    ],
+    "uniform": [
+        "enforce",
+        "maintain"
+    ],
+    "unify": [
+        "integrate",
+        "reorganize",
+        "simplify"
+    ],
+    "unite": [
+        "inspire",
+        "divide",
+        "bring",
+        "join"
+    ],
+    "update": [
+        "delete",
+        "upload",
+        "check",
+        "release",
+        "compile",
+        "email",
+        "link",
+        "change",
+        "edit"
+    ],
+    "upgrade": [
+        "build",
+        "integrate"
+    ],
+    "uphold": [
+        "enforce",
+        "overturn",
+        "violate",
+        "enact",
+        "impose",
+        "declare"
+    ],
+    "upload": [
+        "edit",
+        "delete",
+        "submit",
+        "send",
+        "embed",
+        "download",
+        "link",
+        "publish",
+        "copy",
+        "update",
+        "archive"
+    ],
+    "upset": [
+        "defeat"
+    ],
+    "urge": [
+        "compel",
+        "continue",
+        "engage"
+    ],
+    "usurp": [
+        "cede"
+    ],
+    "utilize": [
+        "employ",
+        "incorporate",
+        "integrate",
+        "enable",
+        "allow",
+        "enhance",
+        "evaluate",
+        "obtain",
+        "operate",
+        "implement"
+    ],
+    "validate": [
+        "interpret",
+        "assign"
+    ],
+    "verify": [
+        "confirm",
+        "determine",
+        "obtain",
+        "check",
+        "identify",
+        "evaluate",
+        "locate",
+        "modify"
+    ],
+    "veto": [
+        "oppose",
+        "approve"
+    ],
+    "view": [
+        "click",
+        "look",
+        "access",
+        "display",
+        "open",
+        "find",
+        "link"
+    ],
+    "violate": [
+        "infringe",
+        "enforce",
+        "impose",
+        "prohibit",
+        "circumvent",
+        "breach",
+        "uphold",
+        "restrict",
+        "threaten",
+        "invalidate",
+        "conduct"
+    ],
+    "visit": [
+        "check",
+        "find",
+        "ask",
+        "leave",
+        "place"
+    ],
+    "voice": [
+        "sound"
+    ],
+    "waive": [
+        "revoke",
+        "enforce",
+        "violate",
+        "relinquish"
+    ],
+    "walk": [
+        "run"
+    ],
+    "want": [
+        "need",
+        "get",
+        "know",
+        "make",
+        "could"
+    ],
+    "warn": [
+        "alert",
+        "discourage",
+        "dissuade",
+        "inform",
+        "advise",
+        "urge"
+    ],
+    "waste": [
+        "reduce",
+        "conserve"
+    ],
+    "watch": [
+        "show",
+        "enjoy"
+    ],
+    "weaken": [
+        "impede",
+        "hinder",
+        "destroy",
+        "curtail"
+    ],
+    "wear": [
+        "fit",
+        "keep"
+    ],
+    "weigh": [
+        "measure"
+    ],
+    "widen": [
+        "broaden",
+        "expand"
+    ],
+    "wield": [
+        "exert",
+        "amass",
+        "seize"
+    ],
+    "win": [
+        "beat",
+        "defeat",
+        "clinch",
+        "lose",
+        "earn",
+        "draw",
+        "score",
+        "fight",
+        "play"
+    ],
+    "withdraw": [
+        "accept",
+        "cease",
+        "refuse",
+        "authorize",
+        "approve"
+    ],
+    "withhold": [
+        "disclose"
+    ],
+    "withstand": [
+        "absorb",
+        "sustain"
+    ],
+    "witness": [
+        "investigate"
+    ],
+    "work": [
+        "make"
+    ],
+    "worship": [
+        "praise"
+    ],
+    "wound": [
+        "prevent",
+        "lead",
+        "end"
+    ],
+    "wrap": [
+        "fold",
+        "put",
+        "wear"
+    ],
+    "write": [
+        "read",
+        "tell",
+        "publish",
+        "ask",
+        "understand",
+        "want",
+        "know",
+        "explain",
+        "send",
+        "answer",
+        "need",
+        "remember"
+    ],
+    "yield": [
+        "produce",
+        "increase",
+        "equal",
+        "generate",
+        "derive",
+        "exceed",
+        "achieve",
+        "estimate",
+        "average"
+    ]
+}
